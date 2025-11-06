@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quản lý Cơ sở Tri thức (RAG)</title>
+
+</head>
+<body class="bg-light py-4">
+
+<div class="container-xl">
+    <div class="page-header mb-4">
+        <h2 class="page-title text-primary">
+            Quản lý Cơ sở Tri thức (RAG)
+        </h2>
+    </div>
+
+    <div class="row">
+        <div class="col-md-8 col-lg-6">
+            <div class="card shadow-sm border-0">
+                <div class="card-header bg-primary text-white">
+                    <h3 class="card-title mb-0">Tải lên Tài liệu Mới (.pdf, .txt, .md, .docx)</h3>
+                </div>
+                <div class="card-body">
+                    <p class="text-muted">
+                        Tải lên file tài liệu để thêm vào cơ sở kiến thức của chatbot.<br>
+                        Quá trình xử lý (embedding) sẽ chạy trong nền và có thể mất vài phút.
+                    </p>
+
+                    <form id="upload-form" enctype="multipart/form-data">
+                        <div class="mb-3">
+                            <label class="form-label">Chọn file (chấp nhận .pdf, .txt, .md, .docx)</label>
+                            <input
+                                type="file"
+                                class="form-control"
+                                name="file"
+                                id="file-input"
+                                accept=".pdf,.txt,.md,.docx"
+                                required
+                            >
+                        </div>
+                        <button type="submit" class="btn btn-primary w-100" id="upload-button">
+                            Tải lên và Xử lý
+                        </button>
+                    </form>
+
+                    <div id="upload-status" class="mt-3" style="display:none;"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- JavaScript -->
+<script>
+document.getElementById("upload-form").addEventListener("submit", async function(event) {
+    event.preventDefault();
+
+    const fileInput = document.getElementById("file-input");
+    const statusDiv = document.getElementById("upload-status");
+    const uploadButton = document.getElementById("upload-button");
+    const csrfToken = "";
+    if (fileInput.files.length === 0) {
+        statusDiv.style.display = "block";
+        statusDiv.className = "alert alert-danger";
+        statusDiv.innerText = "Vui lòng chọn một file.";
+        return;
+    }
+
+    const formData = new FormData();
+    formData.append("file", fileInput.files[0]);
+
+    uploadButton.disabled = true;
+    uploadButton.innerText = "Đang tải lên...";
+    statusDiv.style.display = "block";
+    statusDiv.className = "alert alert-info";
+    statusDiv.innerText = "Đang tải file lên server... Vui lòng chờ.";
+
+    try {
+        const response = await fetch("/api/upload-document", {
+            method: "POST",
+            body: formData,
+            credentials: "same-origin",
+            headers: {
+                "X-CSRF-Token": csrfToken
+            }
+        });
+
+        const result = await response.json();
+
+        if (response.ok) {
+            statusDiv.className = "alert alert-success";
+            statusDiv.innerText = result.message + " Bạn có thể tiếp tục upload file khác.";
+            fileInput.value = "";
+        } else {
+            throw new Error(result.detail || "Lỗi không xác định");
+        }
+    } catch (error) {
+        statusDiv.className = "alert alert-danger";
+        statusDiv.innerText = "Lỗi khi tải lên: " + error.message;
+    } finally {
+        uploadButton.disabled = false;
+        uploadButton.innerText = "Tải lên và Xử lý";
+    }
+});
+</script>
+</body>
+</html>
