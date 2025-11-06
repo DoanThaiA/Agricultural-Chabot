@@ -415,6 +415,8 @@ def create_agriculture_graph():
         """
         try:
             confidence_str = state['disease_info'].get('confidence', '0%')
+            disease = state['disease_info'].get('disease_detected', 'Unknown')
+
             if confidence_str is None:
                 # Nếu confidence là None (do lỗi phân tích), coi như độ tin cậy thấp
                 print("Confidence là None. Yêu cầu thêm thông tin.")
@@ -423,10 +425,10 @@ def create_agriculture_graph():
             confidence_val = float(confidence_str.replace('%', '').strip())
 
             if confidence_val < 70:
-                print(f"Độ tin cậy thấp ({confidence_val}%), yêu cầu thêm thông tin.")
+                print(f"Phát hiện bệnh {disease}.Độ tin cậy thấp ({confidence_val}%), yêu cầu thêm thông tin.")
                 return "request_more_info"
             else:
-                print(f"Độ tin cậy cao ({confidence_val}%), tiếp tục retrieval.")
+                print(f"Phát hiện bệnh {disease}.Độ tin cậy cao ({confidence_val}%), tiếp tục truy xuất.")
                 return "retrieve_knowledge"
         except Exception as e:
             # Bắt các lỗi khác (ví dụ: không thể chuyển 'number%' thành float)
