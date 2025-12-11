@@ -1,0 +1,70 @@
+
+services:
+  # 1. Database
+  db:
+    image: postgres:15-alpine
+    container_name: agri_db
+    restart: always
+    environment:
+      POSTGRES_USER: ${DB_USER:-postgres}
+      POSTGRES_PASSWORD: ${DB_PASSWORD:-12345}
+      POSTGRES_DB: ${DB_NAME:-agriculture_db}
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - agri_network
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${DB_USER:-postgres} -d ${DB_NAME:-agriculture_db}"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  # 2. Backend
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: agri_backend
+    restart: always
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=postgresql://${DB_USER:-postgres}:${DB_PASSWORD:-12345}@db:5432/${DB_NAME:-agriculture_db}
+      - APP_SECRET_KEY=${APP_SECRET_KEY:-supersecretkey123}
+      - COHERE_API_KEY=${COHERE_API_KEY}
+      - TAVILY_API_KEY=${TAVILY_API_KEY}
+      - HF_KEY=${HF_KEY}
+    volumes:
+      - ./backend:/app
+      - ./backend/model:/app/model
+      - ./backend/agents/chroma_db_storage:/app/agents/chroma_db_storage
+      - ./temp_uploads:/temp_uploads
+      - ./temp_images:/temp_images
+    depends_on:
+      db:
+        condition: service_healthy
+    networks:
+      - agri_network
+
+  # 3. Frontend
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: agri_frontend
+    restart: always
+    ports:
+      - "8501:8501"
+    environment:
+      - BACKEND_API_URL=http://backend:8000
+    depends_on:
+      - backend
+    networks:
+      - agri_network
+
+volumes:
+  postgres_data:
+
+networks:
+  agri_network:
+    driver: bridge

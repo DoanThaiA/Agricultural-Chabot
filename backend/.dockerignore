@@ -1,0 +1,17 @@
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.git/
+.gitignore
+.env
+model/
+agents/chroma_db_storage/
+database.db
+temp_uploads/
+temp_images/
+.DS_Store
+Thumbs.db

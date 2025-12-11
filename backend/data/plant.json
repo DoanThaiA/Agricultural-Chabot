@@ -1,0 +1,608 @@
+{"danh_sach_benh":[{
+  "id": 0,
+  "ten_benh": "Bệnh bạc lá cây lúa",
+  "ten_khoa_hoc": "Xanthomonas oryzae pv. oryzae",
+  "cay_chu": "Lúa (Oryza sativa)",
+  "nguyen_nhan": "Bệnh do vi khuẩn Xanthomonas oryzae pv. oryzae gây ra. Vi khuẩn xâm nhập qua vết thương cơ giới, vết cắn của côn trùng hoặc khí khổng. Nguồn bệnh tồn tại trên tàn dư cây lúa, cỏ dại họ lúa, nước tưới và hạt giống nhiễm khuẩn. Điều kiện thuận lợi để bệnh phát triển là nhiệt độ từ 25 đến 34 độ C, ẩm độ cao, mưa nhiều, ruộng bị ngập úng, gió mạnh, mật độ gieo sạ dày và bón thừa đạm.",
+  "trieu_chung": "Triệu chứng thường bắt đầu từ mép hoặc chóp lá với các vệt nhỏ màu xanh nhạt, sau đó lan rộng dọc theo gân lá. Vết bệnh dần chuyển sang màu xám, vàng nhạt rồi bạc trắng. Lá bị khô từ đầu hoặc mép, dễ cuốn cong và gãy rũ xuống. Khi bóp lá bệnh có thể thấy dịch vi khuẩn màu vàng đục chảy ra. Nếu nhiễm sớm ở giai đoạn mạ hoặc đẻ nhánh, cây bị héo xanh, mạch dẫn đục vàng, cây héo rũ nhanh. Toàn ruộng bị bệnh có thể xuất hiện mùi hôi nhẹ đặc trưng.",
+  "dau_hieu_de_nhan_biet": "Lá lúa bị cháy trắng dọc theo mép, bạc màu, khô rũ. Khi bóp nhẹ phần bị bệnh có nước vàng đục chảy ra. Lá bị cuốn lại, gãy hoặc khô rũ. Bệnh thường xuất hiện sau mưa bão hoặc khi bón thừa đạm.",
+  "moi_truong_phat_sinh": "Bệnh phát triển mạnh trong điều kiện nóng ẩm, mưa nhiều, gió lớn, ruộng trũng hoặc bị ngập nước lâu. Ruộng bón thừa đạm, thiếu kali và gieo sạ dày là môi trường thuận lợi cho vi khuẩn phát triển và lây lan.",
+  "phan_biet": "Khác với bệnh đạo ôn lá (do nấm Pyricularia oryzae), vết bệnh bạc lá thường kéo dài theo gân, mép không rõ ràng và có dịch vàng đục khi bóp, trong khi đạo ôn có vết hình thoi và không có dịch khuẩn.",
+  "hau_qua": "Bệnh làm giảm khả năng quang hợp, khiến cây còi cọc, hạt lép, năng suất giảm 20 đến 50%, nặng có thể mất trắng. Gây thiệt hại lớn ở các vùng trồng lúa thâm canh cao và điều kiện ẩm ướt.",
+  "phong_tru": "Sử dụng giống kháng bệnh như OM5451, OM6976, OM9921, IRBB21. Xử lý hạt giống bằng nước nóng 52 độ C trong 10 đến 15 phút hoặc thuốc trừ khuẩn. Làm đất kỹ, vệ sinh đồng ruộng, tiêu hủy tàn dư cây bệnh, luân canh cây trồng. Gieo sạ thưa, bón phân cân đối, giảm đạm, tăng kali và lân. Khi bệnh mới xuất hiện, phun các thuốc có hoạt chất Streptomycin sulfate, Kasugamycin, Copper hydroxide, Bismerthiazol hoặc Validamycin. Các thuốc thường dùng gồm Kasumin 2L, Starner 20WP, Xanthomix 20WP, Bactocide 12WP, phun 2 lần cách nhau 5 đến 7 ngày. Có thể kết hợp sử dụng chế phẩm sinh học chứa Bacillus subtilis hoặc Pseudomonas fluorescens để hạn chế sự phát triển của vi khuẩn."
+},{
+  "id": 1,
+  "ten_benh": "Bệnh đạo ôn lá cây lúa",
+  "ten_khoa_hoc": "Pyricularia oryzae (syn. Magnaporthe oryzae)",
+  "cay_chu": "Lúa (Oryza sativa)",
+  "nguyen_nhan": "Bệnh do nấm Pyricularia oryzae (synonym Magnaporthe oryzae) gây ra. Nấm có thể phát triển và lây lan nhanh khi có ẩm ướt kéo dài, mưa nhiều, sương đêm, nhiệt độ 25-30 °C hoặc hơn, không khí ẩm và lưu thông kém. Điều kiện gieo sạ dày, thửa ruộng thấp trũng, bổ sung đạm quá mức và thiếu kali/lân cũng làm tăng nguy cơ. Ở Việt Nam, bệnh này là mối đe dọa lớn cho sản xuất lúa. :contentReference[oaicite:3]{index=3}",
+  "trieu_chung": "Ban đầu xuất hiện các đốm nhỏ, hình tròn hoặc hơi bầu dục, trung tâm nhạt màu (xám-trắng tới xanh nhạt), mép vết bệnh hơi nâu hoặc sậm hơn, rồi mở rộng thành vết hình thoi (diamond-shape) hoặc hình bầu dục với đầu nhọn đi theo gân lá. Lá bệnh khô, bị rách, có thể chết sớm. Bệnh có thể tấn công cả cổ lá, thân, cổ đòng và bông. :contentReference[oaicite:4]{index=4}",
+  "dau_hieu_de_nhan_biet": "Lá lúa có nhiều vết hình thoi hoặc bầu dục, trung tâm vết nhạt màu (xám-trắng), mép vết màu nâu hoặc sẫm, vết bệnh thường kéo dài theo chiều dọc lá. Thời điểm ẩm ướt hoặc sau mưa là lúc dễ phát hiện. Không có dịch chảy như bệnh do vi khuẩn. Khác với dấu hiệu của bệnh vi khuẩn (chẳng hạn dịch nhầy) hoặc bệnh bạc lá. :contentReference[oaicite:5]{index=5}",
+  "moi_truong_phat_sinh": "Điều kiện thuận lợi: nhiệt độ khoảng 25-30 °C (có thể thấp hơn nếu ẩm kéo dài), độ ẩm cao, sương đêm hoặc mưa nhẹ kéo dài, ruộng không khô ráo, lưu thông không khí kém, gieo trồng mật độ dày, bổ sung đạm quá nhiều làm cây xanh non, yếu, thiếu kali/lân làm cây giảm đề kháng. Ở Việt Nam đã ghi nhận bệnh này xuất hiện sớm và có nguy cơ cao. :contentReference[oaicite:6]{index=6}",
+  "phan_biet": "Khác với bệnh do vi khuẩn (ví dụ bệnh bạc lá do Xanthomonas oryzae pv. oryzae) — nấm đạo ôn cho vết hình thoi hoặc bầu dục, trung tâm nhạt, mép rõ, không có dịch nhầy; khác với bệnh khô lá do vi khuẩn hoặc cháy mép lá do vi khuẩn có dịch nhầy, vết kéo theo gân ít rõ và thường ở mép/chóp lá. Nên quan sát dạng vết, vị trí (giữa lá hoặc đầu/bờ, theo gân) và sự có/không có dịch nhầy. ",
+  "hau_qua": "Bệnh làm giảm diện tích lá xanh có chức năng quang hợp, cây sinh trưởng kém, nếu tấn công cổ đòng hoặc bông thì hạt lép, năng suất và chất lượng lúa giảm. Ở Việt Nam, tổn thất có thể từ 10-30% trong điều kiện bình thường và thậm chí hơn nếu điều kiện bất lợi. :contentReference[oaicite:8]{index=8}",
+  "phong_tru": "Sử dụng giống kháng hoặc chịu bệnh (ở Việt Nam đã xác định nhiều giống/nguồn kháng) – ví dụ trong nghiên cứu tại đồng bằng sông Cửu Long tìm thấy 23 giống khả năng kháng cao trong số 500 giống được khảo sát. :contentReference[oaicite:9]{index=9} Thực hiện trồng thưa, gieo sạ thích hợp, tránh mật độ quá dày; bón phân cân đối, tránh thừa đạm, tăng kali và lân; đảm bảo tưới-thả nước hợp lý, thoát nước tốt, tránh tồn ẩm kéo dài; vệ sinh đồng ruộng, tiêu hủy cây bệnh và cỏ dại là nguồn bệnh. Khi bệnh phát sinh: sử dụng thuốc trừ nấm với hoạt chất như Fenoxanil được ghi nhận có hiệu lực trong thị trường Việt Nam. :contentReference[oaicite:11]{index=11} Luân phiên thuốc để tránh vi nấm kháng thuốc."
+},
+  {
+  "id": 3,
+  "ten_benh": "Bệnh cháy bìa lá cây lúa",
+  "ten_khoa_hoc": "Xanthomonas oryzae pv. oryzae",
+  "cay_chu": "Lúa (Oryza sativa)",
+  "nguyen_nhan": "Bệnh do vi khuẩn Xanthomonas oryzae pv. oryzae gây ra. Vi khuẩn xâm nhập qua khí khổng, thủy khổng, các vết thương trên lá do mưa gió, xây xát, hoặc côn trùng chích hút. Nguồn bệnh tồn tại trong tàn dư rơm rạ, cỏ dại họ lúa, hạt giống nhiễm bệnh và nước tưới nhiễm. Điều kiện thuận lợi cho bệnh phát triển là nhiệt độ khoảng 26-30 °C, độ ẩm không khí rất cao (≈ 90% trở lên), mưa nhiều gió lớn, ruộng trũng hoặc bị ngập nước, mật độ gieo sạ dày và bón thừa đạm. :contentReference[oaicite:1]{index=1}",
+  "trieu_chung": "Ban đầu xuất hiện ở mép hoặc chóp lá với các vệt nhỏ trong suốt giữa các gân lá, sau đó vết bệnh lan rộng dọc theo mép, chuyển sang màu vàng nâu rồi trắng khô. Lá bị khô, giòn, cuốn lại hoặc bị gãy rũ. Trên vết bệnh có thể thấy giọt dịch vi khuẩn màu vàng đục nhỏ như “trứng tôm” vào sáng sớm hoặc chiều tối. :contentReference[oaicite:2]{index=2}",
+  "dau_hieu_de_nhan_biet": "Lá có vết cháy từ mép hoặc đầu lá lan vào giữa, có ranh giới rõ giữa phần bị bệnh và phần lá khỏe. Khi còn sương hoặc nước đọng vào sáng sớm, trên mép lá xuất hiện các giọt dịch vi khuẩn màu vàng/nhỏ như trứng tôm. Lá bị khô trắng, mất khả năng quang hợp, cây yếu hơn. :contentReference[oaicite:3]{index=3}",
+  "moi_truong_phat_sinh": "Điều kiện thuận lợi: Nhiệt độ khoảng 26-30 °C, độ ẩm không khí rất cao (≥90 %), mưa liên tục hoặc gió lớn, ruộng trũng hoặc bị ngập nước lâu, bón đạm dư thừa, mật độ gieo sạ dày, cây lúa yếu, tàn dư vụ trước chưa được xử lý. Vi khuẩn tồn tại trong nước tưới, tàn dư rơm rạ, hạt giống nhiễm. :contentReference[oaicite:4]{index=4}",
+  "phan_biet": "Khác với Bệnh đạo ôn lá lúa (do nấm Magnaporthe oryzae) — bệnh đạo ôn lá cho vết hình thoi giữa phiến lá, mép không rõ, không có dịch vi khuẩn chảy; trong khi bệnh cháy bìa lá do vi khuẩn có vết bắt đầu từ mép/chóp, có giọt dịch vi khuẩn, ranh giới vết bệnh rõ. Khác với hiện tượng cháy mép sinh lý (do thiếu kali hoặc bón đạm thừa), hiện tượng sinh lý không có dịch vi khuẩn và vết bệnh thường đồng đều trên ruộng. :contentReference[oaicite:6]{index=6}",
+  "hau_qua": "Làm giảm diện tích lá xanh có khả năng quang hợp, cây sinh trưởng kém, hạt lép, năng suất giảm đáng kể — có thể giảm 20-50% hoặc hơn nếu bệnh phát sinh nặng và không xử lý kịp. Chất lượng lúa suy giảm, thương phẩm kém hơn. :contentReference[oaicite:7]{index=7}",
+  "phong_tru": "– Sử dụng giống kháng hoặc có khả năng chịu bệnh tốt. – Làm đất kỹ, tiêu hủy tàn dư cây vụ trước, vệ sinh đồng ruộng, diệt cỏ dại họ lúa. – Gieo sạ thưa, tránh mật độ quá dày; điều chỉnh mực nước hợp lý (không để ruộng bị ngập lâu hoặc ẩm kéo dài). – Bón phân cân đối: tránh đạm thừa, tăng bón kali và lân để cây khỏe; dùng phân hữu cơ hoặc vi sinh để nâng cao sức đề kháng. – Khi bệnh mới xuất hiện: rút nước, rải vôi (ví dụ 10-20 kg/1.000 m²), phun thuốc trừ vi khuẩn thích hợp (như hoạt chất Streptomycin, Kasugamycin, Copper hydroxide, Bismerthiazol) và luân phiên hoạt chất để tránh kháng thuốc. – Thăm ruộng thường xuyên từ khi lúa đẻ nhánh đến trổ, phát hiện sớm và xử lý kịp thời. :contentReference[oaicite:8]{index=8}"
+},
+  {
+  "id": 2,
+  "ten_benh": "Bệnh đốm lá lớn cây ngô",
+  "ten_khoa_hoc": "Exserohilum turcicum (syn. Helminthosporium turcicum Pass)",
+  "cay_chu": "Ngô (Zea mays)",
+  "nguyen_nhan": "Do nấm Exserohilum turcicum gây ra. Nấm tồn tại trong tàn dư cây ngô, hạt giống nhiễm bệnh và đất trồng. Điều kiện thuận lợi phát sinh là thời tiết ẩm ướt, mưa nhiều, độ ẩm cao, nhiệt độ khoảng 28-30 °C, đất thoát nước kém, cây sinh trưởng chậm, chăm sóc kém. :contentReference[oaicite:2]{index=2}",
+  "trieu_chung": "Ban đầu xuất hiện ở lá già sát gốc rồi lan lên lá trên. Trên phiến lá có các vệt hình thoi hoặc dáng sọc dài, màu nâu hoặc xám bạc, viền nâu đỏ, kích thước điển hình ~16-25 × 2-4 mm hoặc có thể kéo dài tới 5-10 cm. Khi bệnh nặng, các vết liên kết, phiến lá bị khô, rách, cây sinh trưởng kém. :contentReference[oaicite:3]{index=3}",
+  "dau_hieu_de_nhan_biet": "Vết bệnh dạng hình thoi, dọc theo gân lá, lá bị khô và rách ở đoạn đầu/chóp; không có quầng vàng rõ như một số bệnh khác; bệnh xuất hiện từ lá già phía dưới rồi lan lên. :contentReference[oaicite:4]{index=4}",
+  "moi_truong_phat_sinh": "Ruộng ngô ở phía Bắc thường có điều kiện đất hơi xấu, thoát nước kém, chăm sóc phân bón không cân đối, mật độ trồng dày; thời tiết mưa nhiều, độ ẩm cao là điều kiện thuận lợi nấm gây bệnh bật phát. :contentReference[oaicite:5]{index=5}",
+  "phan_biet": "Khác với bệnh do vi khuẩn gây cháy lá (ví dụ hiện tượng cháy lá nói chung) — bệnh đốm lá lớn do nấm có vết bệnh điển hình hình thoi, lan rõ theo gân, xuất hiện trên lá già rồi lan lên, trên vết bệnh khi trời ẩm có thể thấy lớp bào tử nấm đen; trong khi bệnh vi khuẩn thường có dịch nhớt hoặc dấu loang ướt ban đầu. :contentReference[oaicite:6]{index=6}",
+  "hau_qua": "Lá bị tổn thương làm giảm diện tích quang hợp, cây ngô sinh trưởng kém, bắp nhỏ, năng suất và chất lượng giảm — theo nghiên cứu có thể gây giảm năng suất từ ~12-30% nếu bệnh nặng. :contentReference[oaicite:7]{index=7}",
+  "phong_tru": "– Sử dụng giống ngô có khả năng kháng hoặc chống chịu bệnh tốt. – Làm đất kỹ, xử lý tàn dư cây bệnh, luân canh với cây trồng khác. – Gieo trồng mật độ hợp lý, chăm sóc phân bón cân đối (không để cây yếu, kém phát triển). – Theo dõi ruộng thường xuyên, khi bệnh mới xuất hiện phun thuốc trừ nấm có hoạt chất như Difenoconazole, Propiconazole hoặc các thuốc gốc triazole/azoxystrobin. :contentReference[oaicite:8]{index=8}"
+},
+  {
+  "id": 4,
+  "ten_benh": "Bệnh bạc lá sớm trên cây cà chua",
+  "ten_khoa_hoc": "Alternaria solani và Alternaria tomatophila",
+  "cay_chu": "Cà chua (Solanum lycopersicum)",
+  "nguyen_nhan": "Bệnh do nấm Alternaria solani và Alternaria tomatophila gây ra. Nấm tồn tại trong đất, tàn dư cây cà chua, cây họ Solanaceae khác; bào tử lây lan qua gió, nước bắn lên lá, côn trùng mang theo. Điều kiện thuận lợi: độ ẩm cao, sương đêm, tưới phun mưa, đất bị bắn lên lá, trồng cây sát đất, cây yếu do dinh dưỡng không cân đối. :contentReference[oaicite:1]{index=1}",
+  "trieu_chung": "Ban đầu xuất hiện các đốm nhỏ nâu hoặc xám-nâu trên lá phía dưới gần gốc, vết bệnh có dạng vòng đồng tâm hoặc vòng quầng vàng xung quanh, sau đó lan rộng ra phiến lá, mô bị hoại tử chuyển nâu, lá úa vàng rồi khô và rụng. :contentReference[oaicite:2]{index=2}",
+  "dau_hieu_de_nhan_biet": "Lá già phía dưới có các vết đốm nâu nhỏ với vòng vàng bên ngoài hoặc vòng đồng tâm; các vết bệnh lan lên phía trên; lá khô, rụng; có thể xuất hiện trên thân hoặc quả non gần cuống; phần lá bị bệnh thường phía dưới và gần đất. :contentReference[oaicite:3]{index=3}",
+  "moi_truong_phat_sinh": "Xuất hiện mạnh khi nhiệt độ khoảng 25-32 °C, độ ẩm cao, mưa hoặc sương kéo dài, đất bị bắn lên lá qua tưới hoặc mưa, trồng cây sát đất, cây yếu, tàn dư cây vụ trước chưa được xử lý. :contentReference[oaicite:4]{index=4}",
+  "phan_biet": "Khác với bệnh Bệnh đốm lá Septoria trên cà chua — vết bệnh của Alternaria thường có vòng đồng tâm rõ hoặc quầng vàng và bắt đầu từ lá phía dưới; vết Septoria nhỏ hơn, thường xám nhạt trung tâm và không có vòng đồng tâm lớn. :contentReference[oaicite:6]{index=6}",
+  "hau_qua": "Lá bị giảm diện tích xanh, cây cà chua kém phát triển, giảm khả năng quang hợp, quả nhỏ, không đạt chất lượng, nặng có thể rụng lá hoặc chết cây. Năng suất và thu nhập bị ảnh hưởng lớn. :contentReference[oaicite:7]{index=7}",
+  "phong_tru": "– Làm đất kỹ, vệ sinh tàn dư cây vụ trước, luân canh với họ khác Solanaceae. – Trồng cây với khoảng cách phù hợp, nâng cao độ thông thoáng, tránh tưới phun mưa vào lá, ưu tiên tưới ở gốc. – Chọn giống cà chua sạch bệnh, khả năng kháng tốt. – Bón phân cân đối, tránh cây bị yếu do thừa đạm hoặc thiếu vi chất. – Khi bệnh mới xuất hiện phun thuốc trừ nấm thích hợp: các hoạt chất như azoxystrobin, difenoconazole, chlorothalonil, pyraclostrobin… kết hợp biện pháp sinh học. – Tỉa loại bỏ lá già/những lá bị bệnh, phủ gốc hoặc sử dụng lớp phủ chống bắn đất. :contentReference[oaicite:8]{index=8}"
+},
+  {
+  "id": 5,
+  "ten_benh": "Bệnh đốm lá Septoria cây cà chua",
+  "ten_khoa_hoc": "Septoria lycopersici",
+  "cay_chu": "Cà chua (Solanum lycopersicum)",
+  "nguyen_nhan": "Bệnh do nấm Septoria lycopersici gây ra. Nấm tồn tại trong tàn dư cây cà chua, cây cỏ dại họ Solanaceae và thiết bị, giá thể. Bào tử được lan truyền bởi nước bắn lên (mưa, tưới phun), gió, người và dụng cụ. Điều kiện thuận lợi gồm độ ẩm cao kéo dài, lá ẩm ướt lâu, nhiệt độ khoảng 60-80 °F (≈16-27 °C) và mật độ cây dày khiến thông thoáng kém. :contentReference[oaicite:2]{index=2}",
+  "trieu_chung": "Ban đầu xuất hiện các đốm nhỏ, tròn (kích thước ~1/16-1/4 inch ≈1.6-6 mm) trên lá già phía dưới, với tâm đốm màu xám-tăng/tan, mép đốm màu nâu sẫm. Trong vết đốm có thể thấy nhiều cấu trúc nhỏ màu đen (pycnidia) là bào tử của nấm. Sau đó đốm lan rộng, nhiều đốm gần sát nhau làm lá vàng rồi rụng, cây bị khô lá. :contentReference[oaicite:3]{index=3}",
+  "dau_hieu_de_nhan_biet": "– Lá dưới cây có nhiều đốm nhỏ tròn, tâm sáng (xám/tan), mép nâu đậm. :contentReference[oaicite:4]{index=4}  \n– Khi dùng kính lúp nhìn vào vết bệnh có nhiều hạt đen (pycnidia) trong tâm đốm. :contentReference[oaicite:5]{index=5}  \n– Bệnh bắt đầu từ mé dưới rồi lan lên mé trên/ lá non. Lá bị mất xanh, biến vàng rồi rụng. :contentReference[oaicite:6]{index=6}",
+  "moi_truong_phat_sinh": "Ưu thích điều kiện ẩm ướt kéo dài, nhiệt độ mát đến trung bình (khoảng 16-27 °C) nhưng khi độ ẩm cao bệnh phát triển mạnh. Lá ẩm, cây trồng mật độ dày, thông gió kém, tưới phun mưa hoặc mưa lớn khiến nước bắn lên lá từ đất là điều kiện thuận lợi. Nguồn bệnh từ tàn dư cây vụ trước, cây cỏ dại họ Solanaceae, dụng cụ nhiễm bệnh. :contentReference[oaicite:7]{index=7}",
+  "phan_biet": "Khác với bệnh Bệnh đạo ôn lá cà chua (early blight) do nấm Alternaria gây nên — Đốm lá Septoria có kích thước nhỏ hơn, hình tròn đều, tâm sáng/tan, mép nâu đậm và có pycnidia đen trong vết; trong khi vết bệnh của đạo ôn lớn, hình thoi, có vòng đồng tâm rõ. :contentReference[oaicite:9]{index=9}",
+  "hau_qua": "Lá bị mất xanh, vàng rồi rụng, ảnh hưởng đến khả năng quang hợp, cây phát triển kém, dẫn tới giảm năng suất và chất lượng quả. Trong trường hợp nặng, toàn bộ lá bị rụng, cây yếu, quả dễ bị cháy nắng do thiếu lá che phủ. :contentReference[oaicite:10]{index=10}",
+  "phong_tru": "– Làm đất kỹ, vệ sinh đồng ruộng, tiêu hủy tàn dư cây cà chua, cỏ dại họ Solanaceae. – Gieo/trồng cây cách nhau đảm bảo thông thoáng, tránh trồng quá dày; tránh tưới phun mưa lên thân/ lá, tốt hơn nên tưới ở gốc. – Sử dụng màng phủ gốc (mulch) để giảm bắn đất lên lá. – Luân canh cây trồng (không trồng cà chua hoặc cây họ Solanaceae liền vụ) ít nhất 1-2 năm. :contentReference[oaicite:11]{index=11}  \n– Khi bệnh mới xuất hiện: phun thuốc trừ nấm phù hợp — các hoạt chất như đồng oxychloride, chlorothalonil, mancozeb hoặc các loại thuốc được đăng ký cho cà chua; tuân thủ liều lượng, thời gian cách ly và luân phiên các hoạt chất để tránh kháng thuốc. :contentReference[oaicite:12]{index=12}"
+},
+  {
+  "id": 6,
+  "ten_benh": "Bệnh đốm lá xám trên cây ngô",
+  "ten_khoa_hoc": "Cercospora zeae-maydis (và/hoặc C. zeina)",
+  "cay_chu": "Ngô (Zea mays)",
+  "nguyen_nhan": "Bệnh do nấm Cercospora zeae-maydis (và/hoặc C. zeina) gây ra. Nấm tồn tại trong tàn dư cây ngô, đặc biệt là rơm rạ còn lại trên mặt đất hoặc chưa phân huỷ; bào tử lây lan qua gió, mưa, nước bắn lên lá hoặc chuyển từ đồng sang. Điều kiện thuận lợi: thời tiết ẩm cao, độ ẩm không khí lớn (> 90%), lá ẩm ướt kéo dài, nhiệt độ 25-32 °C (≈77-90 °F) hoặc hơn. :contentReference[oaicite:1]{index=1}",
+  "trieu_chung": "Ban đầu xuất hiện trên lá phía dưới (lá già gần gốc) các vệt nhỏ hoại tử, sau đó lan rộng thành các vết hình chữ nhật hoặc thoi dài, giới hạn bởi gân lá (cả hai bên vết sát theo gân lá). Vết bệnh màu nâu nhạt tới vàng, khi phát triển có thể chuyển xám và lan rộng, nhiều vết bệnh liên kết thành vùng hoại tử lớn. :contentReference[oaicite:2]{index=2}",
+  "dau_hieu_de_nhan_biet": "Các vết bệnh dạng hình chữ nhật hoặc dài hẹp, giới hạn bởi gân lá song song, đầu vết thường mờ hoặc sáng hơn, mép giới hạn rõ; khi đưa lá lên ánh sáng thấy vết mờ đục; xuất hiện chủ yếu trên lá dưới sau đó lan lên. :contentReference[oaicite:3]{index=3}",
+  "moi_truong_phat_sinh": "Nguồn bệnh thường là tàn dư cây ngô (rơm rạ) trên mặt đất hoặc bề mặt đất; ruộng canh tác liên tục ngô hoặc ít luân canh, không làm đất kỹ, lớp phủ bã cây lớn tăng nguy cơ. Điều kiện thuận lợi: nhiệt độ 25-32 °C (70-90 °F), độ ẩm cao kéo dài (lá ẩm từ sương, mưa, tưới phun), thời gian ướt lá >12 giờ. :contentReference[oaicite:4]{index=4}",
+  "phan_biet": "Khác với Bệnh đốm lá lớn trên cây ngô (Northern Corn Leaf Blight — Exserohilum turcicum) có vết bệnh hình “xì gà” lớn, dài 5-15 cm không bị giới hạn bởi gân lá; trong khi bệnh đốm lá xám vết nhỏ hơn, hình chữ nhật, giới hạn bởi gân lá và thường xuất hiện từ lá già phía dưới. :contentReference[oaicite:6]{index=6}",
+  "hau_qua": "Khi bệnh phát triển mạnh làm giảm diện tích lá xanh có khả năng quang hợp, cây kém phát triển, nếu vết bệnh lan tới lá bên trong và gần bắp thì ảnh hưởng tới việc tích trữ dưỡng chất và làm giảm năng suất. Theo nghiên cứu, nếu vùng lá bị nhiễm từ 25-75% có thể làm giảm năng suất từ 5-20 %, nếu >75% thì giảm có thể 15-50% hoặc hơn. :contentReference[oaicite:7]{index=7}",
+  "phong_tru": "– Lựa chọn giống ngô có khả năng chịu hoặc kháng tốt với bệnh đốm lá xám.  \n– Thực hiện luân canh cây trồng (không trồng ngô liên tục), làm đất kỹ để chôn tàn dư cây vụ trước sâu xuống nhằm giảm nguồn bệnh.  \n– Giảm mật độ trồng, đảm bảo thông thoáng, tránh trồng quá dày; tưới hợp lý, hạn chế bắn nước lên lá nếu có thể.  \n– Vệ sinh đồng ruộng: tiêu hủy tàn dư cây ngô sau thu hoạch, làm sạch đất mặt.  \n– Trong trường hợp bệnh phát sinh mạnh: phun thuốc trừ nấm phù hợp với bệnh lá (cần tuân thủ theo nhãn, liều lượng và thời điểm; phun khi xuất hiện dấu hiệu bệnh và/hoặc trước khi bệnh lan rộng).  \n– Tránh bón đạm quá dư làm cây thân lá yếu, tăng nguy cơ nhiễm bệnh, đồng thời bón phân cân đối để cây khỏe mạnh. :contentReference[oaicite:8]{index=8}"
+},
+  {
+  "id": 7,
+  "ten_benh": "Bệnh đốm nâu cây lúa",
+  "ten_khoa_hoc": "Bipolaris oryzae (syn. Cochliobolus miyabeanus)",
+  "cay_chu": "Lúa (Oryza sativa)",
+  "nguyen_nhan": "Bệnh do nấm Bipolaris oryzae (teleomorph Cochliobolus miyabeanus) gây ra. Nấm sống kí sinh và saprophyt trên tàn dư cây lúa, hạt giống nhiễm bệnh và có thể lan truyền qua gió, mưa, nước bắn lên lá, hoặc hạt giống nhiễm. :contentReference[oaicite:3]{index=3}",
+  "trieu_chung": "Ban đầu xuất hiện các đốm nhỏ tròn hoặc hình bầu dục màu nâu trên lá, thường ở lá già hoặc giai đoạn đẻ nhánh. Vết có thể mở rộng, trung tâm chuyển màu xám hoặc nhạt hơn, mép vết nâu đậm. Lá bị khô hoại tử, có thể ảnh hưởng cả bẹ lá, thân, bông và hạt. :contentReference[oaicite:4]{index=4}",
+  "dau_hieu_de_nhan_biet": "– Lá phía dưới xuất hiện nhiều đốm nhỏ nâu-rơm, hình dạng tròn đến bầu dục. :contentReference[oaicite:5]{index=5}  \n– Vết bệnh cầu tròn/oval, trung tâm thường nhạt hơn (xám hoặc vàng nhạt), viền nâu đậm. :contentReference[oaicite:6]{index=6}  \n– Thường xuất hiện trên ruộng lúa bị thiếu dinh dưỡng (đặc biệt K, P), hoặc canh tác liên tục, ruộng thoát nước kém. :contentReference[oaicite:7]{index=7}",
+  "moi_truong_phat_sinh": "Bệnh phát triển mạnh trong điều kiện lá còn ẩm kéo dài (sương, mưa nhẹ), độ ẩm cao, đặc biệt trên ruộng lúa bị thiếu dinh dưỡng (đạm, kali, silic…) hoặc đất trồng thoái hóa, nhiều tàn dư cây lúa vụ trước. Nhiệt độ khoảng 20-30 °C là thuận lợi. :contentReference[oaicite:8]{index=8}",
+  "phan_biet": "Khác với bệnh Bệnh đạo ôn lá lúa (caused by nấm Pyricularia oryzae) — đốm nâu có vết nhỏ hơn, hình tròn/oval, trung tâm nhạt hơn, mép nâu; trong khi đạo ôn có vết lớn hơn, hình thoi hoặc thon dài, mép vết thường hơi vàng xung quanh. Đồng thời khác với bệnh do vi khuẩn (ví dụ như bệnh bạc lá) vì đốm nâu không có dịch vi khuẩn chảy, và thường xuất hiện trên ruộng bị dinh dưỡng kém. ",
+  "hau_qua": "Làm giảm diện tích lá xanh, giảm khả năng quang hợp; nếu nặng sẽ ảnh hưởng tới bông, hạt lúa nhỏ, lép, năng suất có thể giảm từ vài phần trăm tới 20-30% hoặc hơn tùy điều kiện. :contentReference[oaicite:10]{index=10}",
+  "phong_tru": "– Chọn giống chịu hoặc kháng bệnh nếu có.  \n– Làm đất kỹ, xử lý tàn dư cây lúa vụ trước, vệ sinh đồng ruộng.  \n– Bón phân cân đối: đảm bảo đủ kali, lân, silic và không để cây bị yếu do thiếu dinh dưỡng.  \n– Cải thiện điều kiện ruộng: đảm bảo thoát nước tốt, giảm thời gian lá ẩm, tránh mật độ sạ quá dày.  \n– Xử lý hạt giống nếu có nhiễm: ngâm nước nóng 53-54 °C trong 10-12 phút có thể bảo vệ hạt khỏi mầm bệnh. :contentReference[oaicite:11]{index=11}  \n– Nếu bệnh phát sinh: phun thuốc trừ nấm phù hợp (theo khuyến cáo địa phương) và thay đổi mật độ, luân canh cây trồng để giảm nguồn bệnh."
+},
+  {
+  "id": 8,
+  "ten_benh": "Bệnh ghẻ cây táo",
+  "ten_khoa_hoc": "Venturia inaequalis",
+  "cay_chu": "Táo (Malus spp.)",
+  "nguyen_nhan": "Bệnh do nấm Venturia inaequalis gây ra. Nấm tồn tại qua mùa đông trong tàn dư lá táo bị nhiễm hoặc quả nhiễm rụng dưới gốc, khi thời tiết xuân mát ẩm và mưa nhiều nấm phóng bào tử sang cây khỏe gây bệnh. :contentReference[oaicite:4]{index=4}",
+  "trieu_chung": "Ban đầu xuất hiện các vết nhỏ màu xanh ôliu-nhạt hoặc nước đọng trên lá non, sau đó những vết này chuyển thành đốm màu nâu tới đen, mặt lá có thể nhung mờ. Trên quả, xuất hiện vết sần sùi, đen hoặc nâu, có thể gây méo quả hoặc nứt vỏ. :contentReference[oaicite:5]{index=5}",
+  "dau_hieu_de_nhan_biet": "Lá có nhiều đốm hình tròn hoặc hơi không đều, màu từ ô liu tới nâu đen, mép vết không rõ ràng, vết có thể hợp lại thành vùng lớn, lá bị xoắn, rụng sớm. Quả có vết sần hoặc ghẻ, màu nâu/đen, có thể nứt vỏ hoặc chuyển chất vỏ. :contentReference[oaicite:6]{index=6}",
+  "moi_truong_phat_sinh": "Điều kiện thuận lợi gồm: thời tiết xuân mát tới trung bình (khoảng 10-20 °C) và độ ẩm cao, mưa hoặc sương kéo dài khiến bề mặt lá ẩm ướt, tán cây dày che khuất ánh sáng, tàn dư táo hoặc cỏ dại nhiễm bệnh không được xử lý. :contentReference[oaicite:7]{index=7}",
+  "phan_biet": "Khác với bệnh cháy lá do vi khuẩn hoặc các bệnh vết nấm khác trên táo — bệnh ghẻ đặc trưng bởi các vết đen/nâu sần “ghẻ” trên quả và đốm ô liu tới đen trên lá; vết không rõ mép vàng ranh giới như một số bệnh do vi khuẩn; đồng thời bệnh thường phát sinh mạnh khi thời tiết mát ẩm chứ không chỉ do mùa nóng. :contentReference[oaicite:8]{index=8}",
+  "hau_qua": "Nếu nhiễm nặng, cây có thể rụng lá sớm, ảnh hưởng tới khả năng quang hợp và sức khỏe cây; quả mất giá trị thương phẩm do vết sần và méo; năng suất và chất lượng quả giảm. :contentReference[oaicite:9]{index=9}",
+  "phong_tru": "– Trồng giống kháng bệnh nếu có. :contentReference[oaicite:10]{index=10}  \n– Vệ sinh vườn: thu gom và tiêu hủy lá, quả nhiễm rụng dưới gốc sau mỗi vụ để giảm nguồn bệnh. :contentReference[oaicite:11]{index=11}  \n– Tạo thông thoáng tán cây, tránh cây trồng quá dày, loại bỏ cành già, tăng ánh sáng và thoát nước tốt.  \n– Tránh để lá và quả bị ướt kéo dài: không tưới phun mưa vào buổi chiều muộn, ưu tiên tưới gốc.  \n– Phun thuốc trừ nấm phòng thời điểm đầu xuân khi nấm bắt đầu hoạt động; thường cần luân phiên hoạt chất để tránh kháng thuốc. :contentReference[oaicite:12]{index=12}"
+},
+  {
+  "id": 9,
+  "ten_benh": "Bệnh gỉ sắt trên cây ngô",
+  "ten_khoa_hoc": "Puccinia sorghi (common rust) / Puccinia polysora (southern rust)",
+  "cay_chu": "Ngô (Zea mays)",
+  "nguyen_nhan": "Bệnh do nấm gỉ (rust fungi) gây ra, gồm chủ yếu nấm Puccinia sorghi (common rust) và Puccinia polysora (southern rust). Nấm phát tán qua bào tử gió, điều kiện ẩm ướt, lá ướt kéo dài giúp nhiễm bệnh. :contentReference[oaicite:3]{index=3}",
+  "trieu_chung": "Ban đầu xuất hiện các đốm nhỏ hoặc vệt chlorotic trên lá, sau đó xuất hiện các pustule (mụn bệnh) màu gỉ sắt (nâu đỏ / gạch đỏ) trên cả hai mặt lá đối với common rust, hoặc tập trung nhiều ở mặt trên lá đối với southern rust. Pustule có thể lan rộng, lá bị hoại tử sớm. :contentReference[oaicite:4]{index=4}",
+  "dau_hieu_de_nhan_biet": "– Trên lá ngô có các mụn (pustule) màu nâu đỏ (brick-red) hoặc sẫm dần khi già. :contentReference[oaicite:5]{index=5}  \n– Đối với common rust: mụn lan cả mặt trên và mặt dưới lá. :contentReference[oaicite:6]{index=6}  \n– Đối với southern rust: mụn thường tập trung mặt trên lá, màu vàng cam đến nâu, tập trung thành đám. :contentReference[oaicite:7]{index=7}",
+  "moi_truong_phat_sinh": "Điều kiện thuận lợi: độ ẩm cao, sương hoặc lá ướt kéo dài ≥ 6 giờ (common rust) hoặc ≥ 4 giờ (southern rust). Nhiệt độ: common rust 16-25 °C (≈ 60-77 °F), southern rust khoảng 25-31 °C (≈ 77-88 °F). Lúa trồng muộn, cây ngô còn non rất dễ nhiễm. :contentReference[oaicite:8]{index=8}",
+  "phan_biet": "Khác với bệnh đốm lá lớn (“gray leaf spot”) hay bệnh đạo ôn: gỉ sắt có mụn pustule nâng lên bề mặt lá chứa bào tử dễ rub ra tay; vết bệnh thường màu nâu đỏ/gạch hoặc vàng-cam, đặc biệt common rust xuất hiện cả mặt trên và mặt dưới lá; southern rust xuất hiện chủ yếu mặt trên với mụn nhỏ hơn và tập trung hơn. :contentReference[oaicite:9]{index=9}",
+  "hau_qua": "Khi nhiễm nặng, diện tích lá xanh giảm, khả năng quang hợp suy giảm, cây kém phát triển, hạt lép, năng suất giảm. Trong trường hợp rất nặng, có thể dẫn đến rụng lá sớm và đổ ngã. :contentReference[oaicite:10]{index=10}",
+  "phong_tru": "– Sử dụng giống ngô có khả năng kháng bệnh hoặc chịu bệnh tốt.  \n– Trồng sớm hoặc tránh gieo trồng quá muộn để tránh cây non trong điều kiện nhiễm bệnh cao.  \n– Theo dõi ruộng thường xuyên, phát hiện sớm và nếu cần phun thuốc trừ nấm khi mụn bệnh mới xuất hiện — sử dụng thuốc phù hợp theo nhãn, luân phiên hoạt chất để tránh kháng thuốc.  \n– Chăm sóc cây khỏe (bón phân cân đối, tránh stress cho cây) để tăng khả năng đề kháng.  \n– Vệ sinh đồng ruộng, loại bỏ tàn dư cây bệnh và tránh trồng ngô liên tục trong cùng ruộng nếu điều kiện thuận lợi cho bệnh phát triển."
+},
+  {
+  "id": 10,
+  "ten_benh": "Bệnh mốc sương sớm cây cà chua",
+  "ten_khoa_hoc": "Alternaria solani (còn gọi Alternaria linariae / A. tomatophila)",
+  "cay_chu": "Cà chua (Solanum lycopersicum)",
+  "nguyen_nhan": "Bệnh do nấm Alternaria solani (hoặc các loài liên quan như A. tomatophila / A. linariae) gây ra. Nấm tồn tại trong tàn dư cây cà chua hoặc khoai tây, hạt giống nhiễm bệnh và có thể lan truyền qua mưa, nước bắn lên lá, gió và dụng cụ trồng. :contentReference[oaicite:2]{index=2}",
+  "trieu_chung": "Ban đầu xuất hiện các đốm nhỏ màu nâu trên lá già phía dưới, sau đó vết bệnh lớn lên có nhiều vòng đồng tâm (mẫu “bulli-eye”), xung quanh có vòng vàng. Lá bị nhiễm có thể khô, rụng. Trên thân cây hoặc gần gốc có thể xuất hiện vết sẫm, bị thắt cổ rễ. Quả cũng có thể bị nhiễm với vết đen hoặc sậm màu. :contentReference[oaicite:3]{index=3}",
+  "dau_hieu_de_nhan_biet": "– Lá dưới có các đốm nâu, hình tròn tới hơi bầu dục, đường kính vài mm tới >1 cm, trên vết có thể thấy các vòng đồng tâm. :contentReference[oaicite:4]{index=4}  \n– Vết thường xuất hiện ở phần thấp của cây, lan lên phía trên.  \n– Quả bị nhiễm sẽ có vết sunken (lõm) màu nâu đen, đôi khi có vòng đồng tâm.  \n– Cây chịu bệnh kém phát triển, lá rụng nhiều, cây mỏng yếu. :contentReference[oaicite:5]{index=5}",
+  "moi_truong_phat_sinh": "Điều kiện thuận lợi gồm: nhiệt độ 25-32 °C (khoảng 77-90 °F), độ ẩm cao hoặc sương đêm, tưới phun mưa hoặc nước bắn lên lá từ đất, cây trồng quá sát, thông gió kém, cây yếu do dinh dưỡng không cân đối, tàn dư cây trồng chưa được xử lý. :contentReference[oaicite:6]{index=6}",
+  "phan_biet": "Khác với bệnh đốm lá Septoria Leaf Spot of Tomato — vết bệnh của early blight lớn hơn, có vòng đồng tâm rõ hơn, bắt đầu từ lá thấp và có thể ảnh hưởng cả thân và quả; trong khi Septoria thường chỉ trên lá, vết nhỏ hơn và có các pycnidia nhỏ đen ở trung tâm. :contentReference[oaicite:8]{index=8}",
+  "hau_qua": "Khi nhiễm nặng, diện tích lá xanh bị giảm, cây bị giảm khả năng quang hợp, dẫn tới năng suất giảm đáng kể; quả có thể bị vết, không đạt chất lượng; trong trường hợp nghiêm trọng, cây có thể bị chết hoặc mất mùa. :contentReference[oaicite:9]{index=9}",
+  "phong_tru": "– Chọn giống cà chua có khả năng chịu bệnh nếu có.  \n– Vệ sinh đồng ruộng: loại bỏ tàn dư cây cà chua và khoai tây, làm đất kỹ trước khi trồng.  \n– Trồng cây với mật độ phù hợp, đảm bảo thông thoáng, tránh tưới phun mưa vào lá — ưu tiên tưới gốc.  \n– Bón phân cân đối, tránh cây bị stress do dinh dưỡng kém.  \n– Khi bệnh mới xuất hiện, sử dụng thuốc trừ nấm phù hợp (ví dụ thuốc chứa đồng, chlorothalonil, hoặc các hoạt chất triazole) và lặp lại phun theo khuyến cáo; kết hợp với việc cắt bỏ lá/bộ phận bị bệnh để giảm nguồn bệnh. :contentReference[oaicite:10]{index=10}"
+},
+  {
+  "id": 11,
+  "ten_benh": "Bệnh mốc sương trắng trên cây bí",
+  "ten_khoa_hoc": "Podosphaera xanthii (và/hoặc Golovinomyces cichoracearum) trên họ Bí (Cucurbitaceae)",
+  "cay_chu": "Cây bí (Cucurbita spp., bao gồm bí đỏ, bí xanh, bí ngô…)",
+  "nguyen_nhan": "Bệnh do nấm mốc sương trắng (thuộc nhóm powdery mildew) gây ra, thường là loài Podosphaera xanthii hoặc Golovinomyces cichoracearum. Bào tử lây lan bằng gió, cây lá nối liền, quá trình canh tác mật độ dày, tán che nghẽn, có nhiều tàn dư cây họ Bí vụ trước là điều kiện thuận lợi. :contentReference[oaicite:1]{index=1}",
+  "trieu_chung": "Ban đầu xuất hiện các đốm nhỏ màu trắng xám hoặc bột phấn trắng trên lá, thường bắt đầu từ lá già hoặc từ mặt dưới lá rồi lan rộng. Sau đó diện tích lá bị phủ lớp mốc trắng, lá chuyển vàng, khô và rụng. Trên thân, cuống và đôi khi cả quả có thể thấy lớp bột trắng mỏng. :contentReference[oaicite:2]{index=2}",
+  "dau_hieu_de_nhan_biet": "– Lá có lớp bột trắng-xám như phủ bột phấn (powdery) trên bề mặt (thường mặt trên, đôi khi cả mặt dưới). :contentReference[oaicite:3]{index=3}  \n– Khi cọ nhẹ lớp phủ trắng có thể tróc ra như bột. :contentReference[oaicite:4]{index=4}  \n– Lá bị nhiễm rộng sẽ chuyển vàng, trở nên khô, giòn và rụng; cây suy yếu, quả có thể bị cháy nắng do thiếu lá che. :contentReference[oaicite:5]{index=5}",
+  "moi_truong_phat_sinh": "Điều kiện thuận lợi: khí hậu ấm (khoảng 20-30 °C), độ ẩm tương đối cao hoặc có sương đêm, cây trồng với mật độ dày, thông gió kém, tán che tối, cây phát triển tán lớn che khuất ánh sáng; đặc biệt trên họ bí, mốc sương trắng thường phát triển mạnh vào cuối vụ hoặc khi cây đã cho quả nhiều. :contentReference[oaicite:6]{index=6}",
+  "phan_biet": "Khác với bệnh do nấm khác như bệnh bồ hóng (sooty mould) hoặc bệnh đốm lá nặng: bệnh mốc sương trắng có đặc điểm lớp phủ trắng-xám như phấn trên lá và thân, dễ dàng tróc ra khi chạm; trong khi các vết bệnh khác thường là đốm hoặc hoại tử rõ ràng và không có lớp bột mịn như phấn. :contentReference[oaicite:7]{index=7}",
+  "hau_qua": "Lá bị che phủ lớp mốc trắng làm giảm khả năng quang hợp, cây kém phát triển, năng suất giảm; quả có thể bị nhỏ, không đều, phần vỏ có thể bị ảnh hưởng; nếu nhiễm nặng cây có thể rụng lá và chết hoặc sản lượng rất thấp. :contentReference[oaicite:8]{index=8}",
+  "phong_tru": "– Sử dụng giống bí có khả năng chịu bệnh mốc sương trắng nếu có.  \n– Trồng với mật độ hợp lý, đảm bảo thông thoáng giữa cây; tránh trồng quá dày, tán che quá lớn.  \n– Vệ sinh đồng ruộng: loại bỏ tàn dư cây họ Bí vụ trước, cỏ dại và các vật nhiễm bệnh.  \n– Tưới nước hợp lý: ưu tiên tưới gốc, tránh để lá bị ẩm lâu hoặc ẩm kéo dài; nên tưới vào sáng sớm để lá khô nhanh.  \n– Khi bệnh mới xuất hiện: loại ngay lá bị nhiễm nặng, phun thuốc trừ nấm phù hợp với bệnh mốc sương trắng — có thể sử dụng các hoạt chất khuyến cáo (theo điều kiện và quy định của địa phương).  \n– Luân canh cây trồng khác họ ngoài Cucurbitaceae để giảm nguồn bệnh. :contentReference[oaicite:9]{index=9}"
+},
+  {
+  "id": 12,
+  "ten_benh": "Bệnh mốc sương trắng trên cây cherry",
+  "ten_khoa_hoc": "Podosphaera clandestina (synonym Podosphaera cerasi)",
+  "cay_chu": "Cây cherry (Prunus spp.)",
+  "nguyen_nhan": "Bệnh do nấm Podosphaera clandestina (còn gọi Podosphaera cerasi) gây ra — nấm sống ký sinh trên lá non, chồi non, cả quả và thân cây cherry. Nấm tồn tại qua mùa đông dưới dạng chasmothecia (cấu trúc bào tử vỏ cứng) trên lá già hoặc vết vỏ cây, sau đó khi điều kiện thuận lợi sẽ phát sinh bào tử gây bệnh. :contentReference[oaicite:3]{index=3}",
+  "trieu_chung": "Ban đầu trên lá non, chồi non xuất hiện các mảng mỏng màu trắng-xám dạng bột (bào tử và sợi nấm) thường ở mặt dưới lá hoặc gần crotch (vị trí giữa các cành chính). Sau đó lan rộng ra mặt trên, lá có thể xoăn, biến dạng, chuyển vàng rồi rụng. Trên quả cherry có thể xuất hiện mảng trắng hoặc các vết lõm, làm quả mất giá trị thương phẩm. :contentReference[oaicite:4]{index=4}",
+  "dau_hieu_de_nhan_biet": "– Mặt dưới/giữa tán cây, lá non hoặc chồi phía gần thân/crotch xuất hiện lớp phủ trắng-xám như bột phấn. :contentReference[oaicite:5]{index=5}\n– Lá bị nhiễm có thể biến dạng, xoăn lại, sắc màu nhợt, rìa lá đôi khi bén nâu. \n– Trên quả cherry: vết bệnh thường bắt đầu ở miệng cuống (stem cavity) rồi lan ra ngoài, có thể có lớp nấm mỏng trắng-xám hoặc vết lõm sậm màu. :contentReference[oaicite:6]{index=6}",
+  "moi_truong_phat_sinh": "Điều kiện thuận lợi là: thời tiết ấm (khoảng 20-27 °C / 70-80 °F), độ ẩm cao nhưng mặt lá không cần quá ướt (nấm mốc sương trắng thường không cần nước đọng để phát triển). Tán cây dày, thông gió kém, có nhiều chồi non nội bộ tán, cây trồng mật độ dày, hệ thống tưới bắn ướt tán cây hay sương đọng nhiều. Nguồn bệnh tồn tại trong tàn dư lá, vỏ cây, chỗ crotch cây, chồi gốc. :contentReference[oaicite:7]{index=7}",
+  "phan_biet": "Khác với các bệnh đốm lá hay bệnh cháy do vi khuẩn hoặc nấm khác — bệnh mốc sương trắng có dấu hiệu đặc trưng là lớp phủ trắng-xám như phấn trên bề mặt lá/chồi/quả; vết bệnh không sâu hoại tử lớn ngay từ đầu như bệnh đốm; đồng thời nấm mốc sương trắng thường phát trên mô non và tiếp tục lan rộng khi cây vẫn còn phát triển mạnh. :contentReference[oaicite:8]{index=8}",
+  "hau_qua": "Khi nhiễm nặng, diện tích lá xanh giảm, khả năng quang hợp bị ảnh hưởng, cây có thể yếu, chồi chậm phát triển; quả bị tổn thương, mất giá trị thương phẩm (do vết hoặc lớp nấm trắng trên quả), năng suất giảm. Ngoài ra còn làm tăng nguy cơ nhiễm các bệnh khác do cây bị suy yếu. :contentReference[oaicite:9]{index=9}",
+  "phong_tru": "– Thực hiện giữ tán cây thông thoáng: cắt phá chồi gốc, cây con-chồi mầm mọc quanh thân, loại bỏ chồi không cần thiết. :contentReference[oaicite:10]{index=10}\n– Tránh tưới phun ướt tán cây vào thời điểm cây còn đang ra chồi non; ưu tiên tưới gốc hoặc tưới sớm để lá khô nhanh. \n– Sử dụng thuốc trừ nấm phòng ngừa — bắt đầu khi chồi non xuất hiện và trước khi bệnh bùng phát mạnh (ví dụ sau giai đoạn rụng hoa hoặc khi quả bắt đầu phát triển) và luân phiên các nhóm hoạt chất để tránh kháng thuốc. :contentReference[oaicite:11]{index=11}\n– Thu dọn và tiêu hủy tàn dư cây, lá nhiễm bệnh sau mùa vụ để giảm nguồn bệnh vào mùa sau. \n– Trong vườn cây kinh doanh: lựa chọn giống/chủng cây có mức chịu bệnh cao nếu có thông tin. "
+},
+  {
+  "id": 13,
+  "ten_benh": "Bệnh sương mai trên cây khoai tây",
+  "ten_khoa_hoc": "Phytophthora infestans (Mont.) de Bary",
+  "cay_chu": "Khoai tây (Solanum tuberosum) và có thể lây sang cà chua cùng họ Cà (Solanaceae)",
+  "nguyen_nhan": "Bệnh do nấm giả (oomycete) Phytophthora infestans gây ra. Tác nhân này thuộc nhóm sinh vật tương tự nấm, phát triển mạnh trong điều kiện ẩm ướt và mát. Nấm tồn tại trong tàn dư cây bệnh, củ giống nhiễm hoặc đất trồng trước đó; phát tán bằng bào tử theo gió, mưa và tưới nước.",
+  "trieu_chung": "Trên lá: ban đầu xuất hiện những đốm nhỏ màu xanh thẫm hoặc nâu nhạt, hơi thấm nước; sau lan rộng thành mảng nâu đen, mép lá cong, mô lá mềm rũ và thối nhũn. Khi ẩm độ cao, mặt dưới lá có lớp mốc trắng xám (bào tử nấm). Trên thân: vết bệnh thẫm màu, kéo dài, có thể làm gãy thân. Trên củ: xuất hiện vết lõm màu nâu xám, phần thịt củ bên trong chuyển nâu sẫm, lan dần vào trong và dễ bị thối do vi sinh vật thứ cấp.",
+  "dau_hieu_de_nhan_biet": "– Mảng bệnh màu nâu đen lan nhanh trên lá, kèm mốc trắng xám mặt dưới khi ẩm.\n– Thân, cành bị đen thẫm, thối nhũn, cây héo rũ nhanh.\n– Củ có vết thối cứng màu nâu ở vỏ và phần thịt bên trong đổi nâu, đôi khi có mùi hôi nhẹ do vi khuẩn phụ.\n– Bệnh thường khởi đầu ở phần dưới tán hoặc khu vực ruộng thấp, ẩm ướt.",
+  "moi_truong_phat_sinh": "Phát triển mạnh khi thời tiết mát (18 – 22 °C), có sương mù, mưa nhiều hoặc tưới phun. Ẩm độ không khí > 90 % trong nhiều giờ liền là điều kiện thuận lợi. Bệnh bộc phát mạnh ở vùng núi cao, vùng có khí hậu lạnh ẩm, hoặc mùa mưa ở miền Bắc – Tây Nguyên Việt Nam. Tàn dư cây bệnh, củ giống mang mầm bệnh là nguồn lây chủ yếu.",
+  "phan_biet": "Khác với bệnh héo do vi khuẩn hay bệnh đốm nâu: sương mai thường có mốc trắng xám ở mặt dưới lá và lan rất nhanh trong 1–2 ngày. Bệnh héo vi khuẩn thường không có mốc trắng và khi cắt thân có dịch nhầy chảy ra; trong khi sương mai không có nhầy mà chỉ có vết thối nâu khô.",
+  "hau_qua": "Gây thiệt hại rất lớn, có thể mất trắng nếu không phòng kịp thời. Lá bị hủy hoại, cây không quang hợp, thân và củ thối nhanh. Năng suất giảm 50 – 100 % tùy mức độ. Bệnh lây lan mạnh sang cây khoai tây khác và cả cây cà chua trong cùng ruộng.",
+  "phong_tru": "– Chọn giống khoai tây kháng hoặc chịu bệnh (VD: giống KT1, KT3, Maris Piper, Desiree…).\n– Dùng củ giống sạch bệnh, bảo quản tốt.\n– Trồng luân canh với cây khác họ Cà ít nhất 2–3 vụ.\n– Không trồng quá dày, tạo tán thông thoáng, tránh tưới phun khi ẩm độ cao.\n– Phát hiện sớm: khi có điều kiện thời tiết thuận lợi nên phun phòng bằng thuốc gốc đồng (Copper hydroxide, Copper oxychloride) hoặc nhóm Metalaxyl, Mancozeb, Chlorothalonil…; phun luân phiên để tránh kháng thuốc.\n– Thu dọn, tiêu hủy cây bệnh sau thu hoạch; không dùng củ nhiễm bệnh làm giống."}
+  ,{
+  "id": 14,
+  "ten_benh": "Bệnh thối đen cây nho",
+  "ten_khoa_hoc": "Guignardia bidwellii",
+  "cay_chu": "Nho (Vitis spp.)",
+  "nguyen_nhan": "Bệnh do nấm Guignardia bidwellii gây ra. Nấm tồn tại qua mùa đông trong các quả bị bệnh khô (mummies) còn bám trên dây hoặc rơi dưới gốc, hoặc trong các cành có vết bệnh. Khi thời tiết ẩm ướt, mưa nhiều và nhiệt độ ấm (khoảng 20-30 °C) là điều kiện thuận lợi để nấm phóng bào tử lây lan. :contentReference[oaicite:2]{index=2}",
+  "trieu_chung": "Trên lá: xuất hiện các vết tròn nhỏ ban đầu màu nhạt (kem/tan) hoặc hơi vàng, sau đó chuyển sang nâu nhạt tới nâu đỏ, mép vết viền đỏ hoặc đậm, tâm vết có thể nhạt hơn và sau đó có các chấm đen nhỏ (pycnidia) xuất hiện. :contentReference[oaicite:3]{index=3}  \nTrên quả: quả nhiễm xuất hiện đốm hoặc vùng thối màu nâu nhạt, sau lan nhanh, quả chuyển sang màu nâu đậm hoặc đen, quả bị khô lại, teo lại thành dạng nho khô (“mummy”) bám chùm hoặc rơi dưới gốc. :contentReference[oaicite:4]{index=4}  \nTrên thân, cành, cuống trái: vết elongated màu đậm, có thể làm cành yếu hoặc gãy. :contentReference[oaicite:5]{index=5}",
+  "dau_hieu_de_nhan_biet": "– Lá nho có những vết tròn tới hơi bầu dục, viền đỏ/màu đậm, tâm vết nâu nhạt.  \n– Khi dùng kính lúp nhìn, thấy nhiều pycnidia đen li ti trong vết bệnh. :contentReference[oaicite:6]{index=6}  \n– Trên trái khi quả còn nhỏ (kích thước đậu tới lớn), xuất hiện vết nhỏ nâu rồi quả nhanh bị thối và co lại thành mummy đen. :contentReference[oaicite:7]{index=7}",
+  "moi_truong_phat_sinh": "Điều kiện thuận lợi: thời tiết ấm và ẩm, có mưa hoặc sương đọng, độ ẩm lá cao và thời gian lá ướt dài. :contentReference[oaicite:8]{index=8}  \nNguồn bệnh: quả bị nhiễm vụ trước (mummies), các cành/thân có vết bệnh, và vết bệnh trên lá. Việc trồng cây dày, thông gió kém cũng làm tăng nguy cơ. :contentReference[oaicite:9]{index=9}",
+  "phan_biet": "Khác với bệnh như Bệnh mốc sương cây nho (powdery mildew) hoặc Bệnh phấn trắng cây nho — bệnh thối đen có vết bệnh rõ ràng với pycnidia đen trong vết, và trên quả xuất hiện khô teo đen (“mummy”); trong khi powdery mildew lớp phủ trắng-xám, phấn mốc, và vết bệnh khác kiểu. Ngoài ra, khác với Bệnh đen đầu chùm quả cây nho (black-rot kiểu khác) về chi tiết nguồn bệnh và giai đoạn nhiễm. ",
+  "hau_qua": "Nếu nhiễm nặng có thể làm hỏng phần lớn chùm quả, giảm năng suất và chất lượng rõ rệt, quả bị khô và rụng hoặc không thương phẩm được. Trong điều kiện thuận lợi, tỷ lệ mất thu hoạch có thể rất cao. :contentReference[oaicite:13]{index=13}",
+  "phong_tru": "– Vệ sinh vườn: thu gom và tiêu hủy quả bị bệnh, quả khô (mummies) và cành bệnh ngay sau thu hoạch hoặc đầu mùa để giảm nguồn bệnh. :contentReference[oaicite:14]{index=14}  \n– Tạo thông thoáng tán lá: trồng với mật độ hợp lý, cắt tỉa cành thoáng khí, tránh để tán dày.  \n– Trồng ở vùng ít ẩm, thoát nước tốt, tránh để lá và quả bị đọng nước lâu.  \n– Sử dụng giống nho có khả năng chịu bệnh nếu có. Nghiên cứu cho thấy có các nguồn kháng với black rot. :contentReference[oaicite:15]{index=15}  \n– Canh tác phù hợp: tránh trồng liên tục nho ở cùng vị trí bị bệnh mạnh; luân canh nếu được; bảo đảm dinh dưỡng cân đối để cây khỏe.  \n– Khi phát hiện điều kiện thuận lợi và bệnh sắp phát: phun thuốc trừ nấm theo khuyến cáo: dùng thuốc bảo vệ pha sớm từ khi đậu quả, lặp lại định kỳ trong mùa vụ ẩm ướt (thuốc chứa các hoạt chất phù hợp — cần kiểm tra nhãn và quy định địa phương). Ví dụ: những hóa chất khuyến cáo ở các nước trồng nho. :contentReference[oaicite:16]{index=16}"
+},
+  {
+  "id": 32,
+  "ten_benh": "Bọ cánh cứng gây hại cây lúa (bọ vòi voi hại rễ lúa)",
+  "ten_khoa_hoc": "Curculionidae spp.",
+  "cay_chu": "Lúa (Oryza sativa)",
+  "nguyen_nhan": "Bọ cánh cứng họ Vòi voi (Curculionidae) gây hại. Trưởng thành và ấu trùng đều có thể gây hại: ấu trùng sống trong đất cắn rễ và gốc lúa, còn trưởng thành ăn bẹ và lá non. Chúng phát sinh nhiều ở ruộng trũng, ẩm hoặc có nhiều cỏ dại, tàn dư hữu cơ. Nguồn sâu tồn tại qua mùa khô trong đất và rơm rạ còn sót lại.",
+  "trieu_chung": "Cây lúa bị héo rũ, vàng úa hoặc chết rải rác trên ruộng, nhất là giai đoạn mạ và đẻ nhánh. Khi nhổ lên thấy rễ bị cụt, bị cắn sần sùi hoặc có lỗ nhỏ do ấu trùng gặm. Trên bẹ và lá có vết gặm dọc mép lá, đôi khi thủng từng mảng nhỏ. Khi mật độ cao, ruộng có nhiều khoảng trống, cây còi cọc và đẻ nhánh kém.",
+  "dau_hieu_de_nhan_biet": "– Cây lúa sinh trưởng kém, lá vàng, dễ nhổ.\n– Thấy ấu trùng trắng ngà, đầu nâu trong đất quanh gốc hoặc trong rễ.\n– Trên mặt ruộng có thể thấy bọ trưởng thành màu nâu hoặc đen, đầu kéo dài thành vòi, trốn dưới bẹ hoặc gốc.\n– Xuất hiện nhiều sau mưa hoặc ở ruộng ngập úng nhẹ, nhiều hữu cơ.",
+  "moi_truong_phat_sinh": "Phát triển mạnh trong điều kiện đất ẩm, có nhiều tàn dư rơm rạ hoặc cỏ dại. Bọ thường gây hại mạnh ở vụ xuân – hè, vùng đất trũng, ít thoát nước. Tồn tại qua mùa khô trong đất, gốc rạ, cỏ ven bờ. Gieo sạ dày và bón thừa đạm làm cây yếu, dễ bị tấn công.",
+  "phan_biet": "Khác với sâu đục thân (sâu non có màu hồng, sống trong thân), bọ vòi voi và ấu trùng gây hại ở phần rễ và bẹ, không tạo lỗ đục trong thân. So với dế, ấu trùng bọ cánh cứng có thân mập, cong hình chữ C, đầu nâu và không nhảy được.",
+  "hau_qua": "Làm chết cây non, giảm mật độ, cây sống thì còi cọc, đẻ nhánh kém, dẫn đến giảm năng suất 20–40%. Nếu không phòng trừ kịp thời, ấu trùng phá hại rễ hàng loạt có thể làm hư hại cả ruộng, đặc biệt trong giai đoạn mạ và cấy non.",
+  "phong_tru": "– Cày bừa, phơi ải đất kỹ sau thu hoạch để diệt trứng và nhộng trong đất.\n– Vệ sinh đồng ruộng, tiêu hủy tàn dư rơm rạ, cỏ dại ven bờ.\n– Gieo sạ thưa, bón phân cân đối, tránh bón thừa đạm.\n– Khi phát hiện sớm, có thể dùng bẫy đèn thu bắt trưởng thành.\n– Dùng thuốc trừ sâu hại đất hoặc phun khi mật độ cao, theo khuyến cáo địa phương (các hoạt chất có thể dùng: Fipronil, Imidacloprid, Chlorpyrifos, hoặc biện pháp sinh học với Metarhizium anisopliae).\n– Tăng cường thiên địch tự nhiên như nấm xanh, nấm trắng trong đất để hạn chế phát sinh."
+},
+  {
+  "id": 89,
+  "ten_benh": "Cây cà chua khỏe mạnh",
+  "ten_khoa_hoc": "Solanum lycopersicum",
+  "cay_chu": "Cà chua",
+  "nguyen_nhan": "Cây sinh trưởng bình thường, không bị nấm, vi khuẩn hay côn trùng gây hại. Được chăm sóc đúng kỹ thuật, có đủ ánh sáng, dinh dưỡng, nước và độ thoáng khí thích hợp.",
+  "trieu_chung": "Lá xanh tươi, phiến lá phẳng, không có vết đốm hay biến dạng. Thân cứng cáp, mọc thẳng, không bị thâm đen hoặc khô. Rễ phát triển mạnh, trắng sáng. Hoa và quả phát triển đồng đều, không bị rụng hoặc biến màu.",
+  "dau_hieu_de_nhan_biet": "– Lá có màu xanh đặc trưng, không xoăn, không héo.\n– Không có đốm nâu, vàng hay mốc trắng trên lá.\n– Thân cây cứng, mọng nước, không có vết nứt hay thối.\n– Hoa nở đều, quả chín tự nhiên, vỏ bóng và không bị sần.\n– Cây sinh trưởng đồng đều, không có dấu hiệu của sâu bệnh.",
+  "moi_truong_phat_sinh": "Cây khỏe mạnh trong điều kiện nhiệt độ 18–28°C, ánh sáng đầy đủ, đất tơi xốp, giàu hữu cơ, thoát nước tốt, độ pH 6–6.8. Được tưới vừa phải, không úng nước, không hạn, và chăm bón cân đối giữa đạm – lân – kali.",
+  "phan_biet": "Khác với cây bị bệnh cháy lá sớm hay mốc sương, cây khỏe mạnh không có vết cháy nâu, không mốc trắng hay đen ở mặt dưới lá. Khác với cây bị thiếu dinh dưỡng, lá không vàng úa hay xoăn.",
+  "hau_qua": "Không có thiệt hại về năng suất hay chất lượng. Cây phát triển mạnh, ra hoa kết trái tốt, năng suất cao, quả có màu sắc và hương vị đặc trưng.",
+  "phong_tru": "– Thường xuyên kiểm tra vườn để phát hiện sớm sâu bệnh.\n– Luân canh cây trồng, không trồng cà chua liên tục nhiều vụ.\n– Sử dụng giống kháng bệnh tốt, hạt giống xử lý sạch nấm.\n– Tưới tiêu hợp lý, tránh để lá ướt lâu.\n– Bón phân cân đối, tăng cường phân hữu cơ hoai mục và vi sinh vật có ích.\n– Giữ vườn thông thoáng, tỉa bỏ lá già và cành sát đất."
+},
+  {
+  "id": 39,
+  "ten_benh": "Cây dâu tây khỏe mạnh",
+  "ten_khoa_hoc": "Fragaria × ananassa",
+  "cay_chu": "Dâu tây",
+  "nguyen_nhan": "Cây sinh trưởng trong điều kiện thuận lợi: đất tơi xốp, thoát nước tốt, độ ẩm vừa phải, ánh sáng đầy đủ và dinh dưỡng cân đối. Không bị nhiễm nấm, vi khuẩn, virus hay côn trùng gây hại.",
+  "trieu_chung": "Lá xanh đậm, phiến lá dày, bóng và không có đốm bệnh. Thân và cuống khỏe, không bị thối hay đen. Hoa trắng sáng, quả phát triển đều, màu đỏ tươi khi chín, thịt chắc, không bị mềm nhũn hoặc thâm. Bộ rễ trắng, lan rộng và hấp thu tốt.",
+  "dau_hieu_de_nhan_biet": "– Lá xanh đều, mép lá không cháy hay khô.\n– Không có đốm nâu, vàng hay mốc trắng trên lá.\n– Hoa và quả phát triển bình thường, quả chín đỏ đồng đều.\n– Thân và cuống không bị thâm đen hay úng nước.\n– Cây phát triển đồng đều, tán gọn và có sức sống mạnh.",
+  "moi_truong_phat_sinh": "Cây dâu tây khỏe mạnh khi trồng ở nhiệt độ 18–25°C, ẩm độ không khí 70–80%, đất tơi xốp, pH 5.5–6.5. Được trồng nơi thoáng mát, có ánh sáng nhẹ buổi sáng và tránh nắng gắt buổi trưa. Tưới nhỏ giọt hoặc phun sương giúp giữ ẩm ổn định mà không gây úng.",
+  "phan_biet": "Khác với cây bị bệnh mốc xám hay đốm lá, cây khỏe mạnh không có lớp nấm mốc, không đốm đen hoặc vết thối trên lá, cuống, quả. Quả chín đều, không bị teo hoặc thâm.",
+  "hau_qua": "Không có thiệt hại về năng suất hay chất lượng. Cây phát triển mạnh, cho nhiều hoa và quả to, đều, màu sắc đẹp, hương vị ngọt thơm tự nhiên, thời gian thu hoạch kéo dài.",
+  "phong_tru": "– Chọn giống dâu tây sạch bệnh, kháng nấm tốt.\n– Trồng trên luống cao, thoát nước tốt.\n– Duy trì độ ẩm đất ổn định, tránh để lá và quả tiếp xúc trực tiếp với đất ướt.\n– Bón phân hữu cơ hoai mục, bổ sung vi sinh vật có ích.\n– Tỉa lá già, lá bệnh sớm để thông thoáng tán cây.\n– Kiểm tra thường xuyên, phòng ngừa sâu hại bằng biện pháp sinh học."
+},
+  {
+  "id": 111,
+  "ten_benh": "Cây đào khỏe mạnh",
+  "ten_khoa_hoc": "Prunus persica",
+  "cay_chu": "Đào",
+  "nguyen_nhan": "Cây sinh trưởng tốt trong điều kiện phù hợp về nhiệt độ, ánh sáng, đất đai và dinh dưỡng. Không bị sâu bệnh hay tác nhân sinh học gây hại. Được cắt tỉa, tưới tiêu và bón phân hợp lý giúp bộ rễ, thân và tán phát triển cân đối.",
+  "trieu_chung": "Lá xanh bóng, không xoăn, không đốm nâu hay cháy mép. Thân cây vỏ nhẵn, màu nâu xám tự nhiên, không rỉ nhựa hay nứt vỏ. Hoa nở đều, màu hồng tươi, đậu quả tốt. Quả phát triển tròn đều, vỏ mịn, không có vết thối hay sâu đục. Rễ trắng khỏe, bám chắc và lan rộng.",
+  "dau_hieu_de_nhan_biet": "– Tán cây cân đối, lá xanh tươi, không rụng sớm.\n– Không có hiện tượng xoăn lá, đốm lá hay rỉ sét.\n– Hoa ra đồng đều, đậu quả cao.\n– Quả phát triển bình thường, không méo, không có vết bệnh.\n– Thân và cành không bị nứt, không chảy nhựa.\n– Cây sinh trưởng ổn định quanh năm.",
+  "moi_truong_phat_sinh": "Cây đào khỏe mạnh khi trồng ở vùng có khí hậu ôn hòa, nhiệt độ trung bình 15–25°C, đất thịt nhẹ, thoát nước tốt, pH từ 6.0–6.8. Nhu cầu ánh sáng cao, cần ít nhất 6 giờ nắng mỗi ngày. Được tưới nước đều đặn nhưng không để úng.",
+  "phan_biet": "Khác với cây bị xoăn lá đào (do nấm Taphrina deformans), cây khỏe mạnh có lá phẳng, không phồng rộp hay đổi màu. Khác với bệnh thối quả, quả đào khỏe có vỏ bóng, không mốc xám hay nứt.",
+  "hau_qua": "Không có thiệt hại năng suất hay chất lượng. Cây phát triển mạnh, ra hoa và kết quả ổn định, quả có màu sắc đẹp, hương vị thơm ngon, năng suất cao và tuổi thọ cây dài.",
+  "phong_tru": "– Chọn giống đào sạch bệnh, trồng nơi thoáng gió, đủ ánh sáng.\n– Tưới tiêu hợp lý, tránh ẩm độ cao kéo dài.\n– Bón phân cân đối, bổ sung phân hữu cơ và vi sinh.\n– Cắt tỉa cành sau thu hoạch để thông thoáng tán.\n– Thường xuyên kiểm tra, phát hiện sớm và loại bỏ lá hoặc cành có dấu hiệu bệnh.\n– Giữ vườn sạch cỏ dại, tiêu hủy tàn dư cây bệnh."
+},
+  {
+  "id": 222,
+  "ten_benh": "Cây đậu nành khỏe mạnh",
+  "ten_khoa_hoc": "Glycine max",
+  "cay_chu": "Đậu nành (Đậu tương)",
+  "nguyen_nhan": "Cây phát triển trong điều kiện sinh thái thích hợp, không bị nấm, vi khuẩn, virus hay côn trùng gây hại. Được chăm sóc đúng kỹ thuật, đất giàu hữu cơ, thoát nước tốt, bón phân cân đối và tưới tiêu hợp lý.",
+  "trieu_chung": "Lá xanh đều, không có đốm vàng hay vết cháy. Thân cây vững chắc, mọc thẳng, không bị nứt hay thối. Hoa ra đều, quả phát triển bình thường, hạt chắc và sáng màu. Rễ phát triển mạnh, có nhiều nốt sần khỏe, màu hồng nhạt bên trong, thể hiện hoạt động cố định đạm tốt.",
+  "dau_hieu_de_nhan_biet": "– Lá có màu xanh đậm đặc trưng, không vàng úa hay xoăn mép.\n– Không có vết bệnh, đốm nâu hay nấm mốc trên lá.\n– Thân cây cứng cáp, không bị đổ ngã hay thối gốc.\n– Hoa và quả phát triển đồng đều, không bị rụng sớm.\n– Rễ có nốt sần khỏe, hoạt động cố định đạm hiệu quả.",
+  "moi_truong_phat_sinh": "Cây đậu nành khỏe mạnh trong điều kiện nhiệt độ 25–32°C, đất tơi xốp, pH 6.0–6.8, thoát nước tốt. Cần đủ ánh sáng, không chịu úng. Thích hợp với đất thịt nhẹ hoặc đất pha cát giàu mùn, độ ẩm vừa phải 70–80%.",
+  "phan_biet": "Khác với cây bị bệnh phấn trắng hoặc rỉ sắt, cây khỏe mạnh không có lớp bột trắng hay đốm rỉ nâu trên lá. Lá không bị rụng sớm, thân không khô gãy, năng suất cao và đồng đều.",
+  "hau_qua": "Không có thiệt hại về năng suất. Cây sinh trưởng mạnh, ra hoa kết quả đều, hạt to và chất lượng cao. Tăng hiệu quả cố định đạm sinh học, cải thiện độ phì đất và năng suất vụ sau.",
+  "phong_tru": "– Chọn giống đậu nành khỏe, kháng bệnh, hạt giống xử lý trước gieo.\n– Gieo trồng đúng mật độ, tránh quá dày.\n– Làm đất kỹ, thoát nước tốt, tránh ngập úng.\n– Bón phân cân đối, ưu tiên phân hữu cơ và vi sinh vật cố định đạm.\n– Kiểm tra ruộng thường xuyên, phát hiện và loại bỏ cây bệnh sớm.\n– Luân canh với cây trồng khác để giảm nguồn bệnh tồn dư."
+},
+  {
+  "id": 28,
+  "ten_benh": "Cây khoai tây khỏe mạnh",
+  "ten_khoa_hoc": "Solanum tuberosum",
+  "cay_chu": "Khoai tây",
+  "nguyen_nhan": "Cây được trồng trong điều kiện sinh thái phù hợp, không bị nhiễm nấm, vi khuẩn, virus hoặc côn trùng gây hại. Đất tơi xốp, thoát nước tốt, dinh dưỡng cân đối và được chăm sóc đúng kỹ thuật giúp cây sinh trưởng khỏe mạnh.",
+  "trieu_chung": "Lá xanh đậm, phẳng, không có đốm nâu, vàng hay mốc. Thân cây mọc thẳng, chắc, không bị héo hoặc thối gốc. Củ phát triển đều, vỏ trơn láng, không bị sần sùi hay thối. Rễ khỏe, màu trắng, lan rộng. Hoa nở đều, không biến dạng, cây sinh trưởng đồng đều.",
+  "dau_hieu_de_nhan_biet": "– Lá xanh bóng, không có vết bệnh hoặc cháy mép.\n– Thân đứng vững, không bị mềm, không thối gốc.\n– Không có đốm nâu, mốc trắng hay mốc xám trên lá hoặc thân.\n– Củ to đều, không bị nứt, không có mùi thối.\n– Cây sinh trưởng đồng đều trên ruộng, không có cây còi cọc hay úa vàng.",
+  "moi_truong_phat_sinh": "Cây khoai tây khỏe mạnh trong điều kiện nhiệt độ 18–25°C, đất thịt nhẹ, tơi xốp, pH 5.5–6.5, độ ẩm vừa phải. Cần ánh sáng tốt, tránh ẩm độ cao kéo dài và nước đọng. Gieo trồng vào mùa mát, tưới vừa phải và bón phân cân đối giữa đạm, lân, kali.",
+  "phan_biet": "Khác với cây bị bệnh mốc sương hay héo xanh vi khuẩn, cây khỏe mạnh không có mốc trắng ở mặt dưới lá, không héo rũ, thân không thâm đen và củ không bị úng thối. Lá xanh đồng đều và quang hợp tốt.",
+  "hau_qua": "Không có tổn thất năng suất hay chất lượng. Cây sinh trưởng mạnh, cho củ đều, to, vỏ sáng đẹp, năng suất cao và chất lượng thương phẩm tốt. Cây khỏe giúp hạn chế sâu bệnh và kéo dài thời gian bảo quản củ sau thu hoạch.",
+  "phong_tru": "– Chọn giống khoai tây sạch bệnh, có nguồn gốc rõ ràng.\n– Làm đất kỹ, luống cao, thoát nước tốt.\n– Luân canh cây trồng để tránh tích tụ mầm bệnh.\n– Bón phân cân đối, tăng cường phân hữu cơ hoai mục.\n– Tránh tưới quá ẩm, đặc biệt vào giai đoạn hình thành củ.\n– Thường xuyên kiểm tra, loại bỏ cây bệnh hoặc héo sớm.\n– Giữ vệ sinh đồng ruộng và bảo quản củ giống trong điều kiện khô, mát."
+},
+  {
+  "id": 19,
+  "ten_benh": "Cây lúa khỏe mạnh",
+  "ten_khoa_hoc": "Oryza sativa",
+  "cay_chu": "Lúa",
+  "nguyen_nhan": "Cây sinh trưởng tốt trong điều kiện canh tác phù hợp: giống tốt, gieo sạ đúng mật độ, bón phân cân đối, ruộng thoát nước tốt và ít chịu tác động của sâu bệnh, thời tiết thuận lợi giúp cây phát triển ổn định.",
+  "trieu_chung": "Lá xanh đậm, thẳng, không có vết cháy, bạc hay đốm nâu. Thân cứng, mọc thẳng, không bị đổ ngã. Rễ trắng khỏe, lan rộng và ăn sâu. Bông lúa trổ đều, hạt mẩy, chắc và chín đồng loạt. Toàn ruộng có màu xanh đồng đều, không có cây còi cọc hay úa vàng.",
+  "dau_hieu_de_nhan_biet": "– Lá lúa xanh tươi, không bị cháy, bạc hay rách mép.\n– Thân đứng vững, cứng cáp, không bị đổ ngã.\n– Không có đốm bệnh, không có mùi hôi đặc trưng của vi khuẩn.\n– Rễ trắng, khỏe, không bị thối hay đen.\n– Hạt phát triển đầy, bông lúa trổ đều, không lép.\n– Cây phát triển đồng đều trên toàn ruộng.",
+  "moi_truong_phat_sinh": "Cây lúa khỏe mạnh khi được trồng trong điều kiện nhiệt độ 25–32°C, đất phù sa màu mỡ, pH 5.5–6.5, nguồn nước sạch, không phèn mặn. Cần lượng nước vừa phải, thoát nước tốt khi cần, kết hợp ánh sáng đầy đủ và bón phân hợp lý (đạm – lân – kali cân đối).",
+  "phan_biet": "Khác với cây bị bệnh bạc lá, đạo ôn hay đốm nâu, cây khỏe mạnh không có vết cháy mép lá, không đốm thon dài, không bạc trắng hay mốc. Lá và thân không có vết dịch khuẩn vàng đục hay khô rũ.",
+  "hau_qua": "Không bị thiệt hại năng suất. Cây sinh trưởng mạnh, hạt chắc và đều, năng suất cao, chất lượng gạo tốt, chống chịu tốt với điều kiện bất lợi và sâu bệnh hại.",
+  "phong_tru": "– Sử dụng giống lúa sạch bệnh, có khả năng kháng cao.\n– Gieo sạ thưa, đúng thời vụ, tránh gieo dày.\n– Làm đất kỹ, vệ sinh đồng ruộng, xử lý tàn dư vụ trước.\n– Bón phân cân đối, không bón thừa đạm, tăng cường kali và phân hữu cơ.\n– Quản lý nước hợp lý: giữ mực nước vừa phải, tháo nước khi lúa trổ.\n– Theo dõi ruộng thường xuyên để phát hiện sớm sâu bệnh.\n– Sử dụng chế phẩm sinh học, khuyến khích thiên địch tự nhiên để bảo vệ cây."
+}
+,
+  {
+  "id": 18,
+  "ten_benh": "Cây mâm xôi khỏe mạnh",
+  "ten_khoa_hoc": "Rubus fruticosus",
+  "cay_chu": "Mâm xôi (Phúc bồn tử)",
+  "nguyen_nhan": "Cây sinh trưởng tốt trong điều kiện khí hậu mát mẻ, đất tơi xốp, thoát nước tốt, giàu hữu cơ và được chăm sóc hợp lý. Không bị nấm, vi khuẩn, virus hoặc côn trùng gây hại. Cắt tỉa, tưới tiêu và bón phân đúng kỹ thuật giúp cây khỏe mạnh và cho năng suất cao.",
+  "trieu_chung": "Lá xanh bóng, phiến lá dày, không có đốm vàng, nâu hay mốc. Thân và cành khỏe, màu xanh hoặc đỏ nâu tự nhiên, không nứt vỏ hay thối. Hoa nở đều, quả phát triển tròn đều, khi chín có màu đỏ hoặc đen đậm, mọng nước, không bị khô hay thối. Rễ khỏe, trắng sáng và lan rộng.",
+  "dau_hieu_de_nhan_biet": "– Lá xanh đậm, không bị cháy mép hoặc đốm bệnh.\n– Cành non phát triển tốt, không gãy hoặc khô.\n– Hoa và quả mọc đều, quả mọng và sáng màu.\n– Không xuất hiện nấm mốc, sâu đục quả hay rệp.\n– Cây có tán đều, phát triển cân đối và không có dấu hiệu héo rũ.",
+  "moi_truong_phat_sinh": "Cây mâm xôi khỏe mạnh khi trồng ở nơi có nhiệt độ 18–25°C, ẩm độ 70–80%, đất thịt nhẹ hoặc đất pha cát tơi xốp, pH 5.5–6.5. Cần ánh sáng vừa phải, tránh nắng gắt, tưới đủ ẩm và thoát nước tốt. Môi trường sạch bệnh, thông thoáng giúp cây phát triển ổn định.",
+  "phan_biet": "Khác với cây bị bệnh thối quả do nấm Botrytis cinerea, cây khỏe mạnh có quả bóng, không thâm, không mốc xám. Khác với cây bị rỉ sắt, lá cây khỏe không có chấm cam hoặc vàng ở mặt dưới lá.",
+  "hau_qua": "Không có thiệt hại năng suất hay chất lượng. Cây sinh trưởng mạnh, cho nhiều quả to, đồng đều, hương vị ngọt thanh, năng suất cao và thời gian thu hoạch kéo dài. Tăng khả năng chống chịu sâu bệnh và điều kiện thời tiết bất lợi.",
+  "phong_tru": "– Chọn giống mâm xôi khỏe mạnh, sạch bệnh.\n– Trồng nơi thoáng mát, thoát nước tốt, tránh úng.\n– Cắt tỉa cành sau thu hoạch để cây thông thoáng.\n– Bón phân hữu cơ hoai mục và phân vi sinh cân đối.\n– Kiểm tra thường xuyên, phát hiện sớm sâu bệnh và xử lý kịp thời.\n– Giữ vườn sạch cỏ dại và tàn dư cây bệnh, kết hợp luân canh hợp lý."
+},
+  {
+  "id": 37,
+  "ten_benh": "Cây ngô khỏe mạnh",
+  "ten_khoa_hoc": "Zea mays L.",
+  "cay_chu": "Ngô (Bắp)",
+  "nguyen_nhan": "Cây ngô sinh trưởng tốt trong điều kiện đất tơi xốp, giàu dinh dưỡng, thoát nước tốt, được bón phân hợp lý và chăm sóc đúng kỹ thuật. Không bị nhiễm nấm, vi khuẩn, virus hay sâu hại. Môi trường trồng thông thoáng, nhiệt độ và độ ẩm phù hợp giúp cây phát triển cân đối và cho năng suất cao.",
+  "trieu_chung": "Lá xanh đậm, bóng, không bị đốm hoặc cháy mép. Thân to, cứng, đứng thẳng, không gãy đổ. Bắp phát triển đều, hạt mẩy, xếp khít, không lép hoặc mốc. Rễ khỏe, ăn sâu và lan rộng, không có dấu hiệu thối. Tua ngô (râu) mọc đều, thụ phấn tốt, không bị khô sớm.",
+  "dau_hieu_de_nhan_biet": "– Lá xanh tươi, không vàng hoặc có đốm nâu.\n– Thân và bẹ lá không bị thối hoặc mục.\n– Bắp to, hạt đều, râu ngô khỏe, có màu vàng nâu tự nhiên.\n– Không có dấu hiệu sâu đục thân, sâu keo hay rệp cắn lá.\n– Cây sinh trưởng đồng đều, chiều cao cân đối trong ruộng.",
+  "moi_truong_phat_sinh": "Ngô phát triển khỏe trong điều kiện nhiệt độ 25–32°C, đất phù sa, thịt nhẹ, tơi xốp, độ pH 5.5–7.0. Cần nhiều ánh sáng, đủ nước giai đoạn sinh trưởng và ra bắp, tránh úng. Môi trường thông thoáng, ít sâu bệnh giúp cây khỏe mạnh và đạt năng suất tối đa.",
+  "phan_biet": "Khác với cây bị bệnh đốm lá xám (Cercospora zeae-maydis) có vết đốm hình chữ nhật, cây khỏe mạnh có lá nguyên vẹn, xanh bóng. Khác với cây bị rỉ sắt có chấm nâu đỏ trên lá, cây khỏe mạnh hoàn toàn không có dấu hiệu này.",
+  "hau_qua": "Không có thiệt hại về năng suất hay chất lượng. Cây sinh trưởng nhanh, cho bắp to, hạt chắc, năng suất cao và khả năng chống chịu sâu bệnh tốt. Cây khỏe giúp tiết kiệm chi phí phòng trừ và duy trì năng suất ổn định qua nhiều vụ.",
+  "phong_tru": "– Sử dụng giống ngô chất lượng cao, kháng bệnh tốt.\n– Làm đất kỹ, thoát nước tốt, bón phân cân đối NPK.\n– Gieo trồng đúng thời vụ, mật độ hợp lý.\n– Thường xuyên kiểm tra ruộng, phát hiện sớm sâu bệnh.\n– Luân canh cây trồng khác họ để giảm mầm bệnh trong đất.\n– Giữ ruộng sạch cỏ dại, vệ sinh tàn dư cây trồng sau thu hoạch."
+},
+  {
+  "id": 22,
+  "ten_benh": "Cây nho khỏe mạnh",
+  "ten_khoa_hoc": "Vitis vinifera L.",
+  "cay_chu": "Nho",
+  "nguyen_nhan": "Cây nho sinh trưởng tốt khi được trồng ở vùng có khí hậu khô ráo, nhiều ánh sáng, đất tơi xốp, giàu dinh dưỡng và thoát nước tốt. Việc chăm sóc đúng kỹ thuật, tỉa cành hợp lý, bón phân cân đối và phòng trừ sâu bệnh kịp thời giúp cây phát triển khỏe mạnh, không bị nấm, vi khuẩn hay virus gây hại.",
+  "trieu_chung": "Lá xanh đậm, không đốm hay xoăn. Cành mập, vỏ cành bóng, không nứt nẻ hay chảy nhựa. Chùm hoa và quả phát triển đều, không bị thối hay rụng sớm. Quả nho có vỏ căng, màu sắc đặc trưng theo giống, không bị nứt hoặc có vết đen. Hệ rễ khỏe, không bị thối hay có nấm trắng.",
+  "dau_hieu_de_nhan_biet": "– Lá có màu xanh đều, không úa vàng, không đốm nâu hay mốc trắng.\n– Cành non mọc khỏe, lá non mở đều, không bị biến dạng.\n– Quả phát triển đồng đều, không có dấu hiệu thối, khô hay bị côn trùng chích hút.\n– Rễ khỏe, không có mùi hôi hoặc mảng trắng bất thường.\n– Cây ra hoa và kết trái ổn định theo mùa.",
+  "moi_truong_phat_sinh": "Cây nho khỏe mạnh phát triển trong điều kiện khí hậu khô, nắng nhiều, nhiệt độ trung bình 25–30°C. Đất cát pha, thịt nhẹ, tơi xốp, pH 6.0–7.5, thoát nước tốt. Không khí thông thoáng giúp hạn chế ẩm độ cao – nguyên nhân gây nấm bệnh.",
+  "phan_biet": "Khác với cây bị bệnh mốc sương (Plasmopara viticola) có lớp mốc trắng mặt dưới lá hoặc bệnh thối đen (Guignardia bidwellii) có đốm nâu đen trên quả, cây nho khỏe mạnh có lá xanh bóng, quả sáng màu, không có dấu hiệu hư hại.",
+  "hau_qua": "Không có thiệt hại về năng suất hoặc chất lượng. Cây nho khỏe mạnh cho chùm quả to, mọng, ngọt, vỏ đẹp, năng suất cao và chất lượng thương phẩm tốt. Cây có khả năng chống chịu sâu bệnh và điều kiện bất lợi tốt hơn, kéo dài tuổi thọ vườn nho.",
+  "phong_tru": "– Chọn giống nho khỏe, sạch bệnh, thích hợp vùng trồng.\n– Làm đất kỹ, đảm bảo thoát nước tốt, bón phân hữu cơ hoai mục.\n– Tỉa cành, tạo tán thông thoáng để hạn chế ẩm độ.\n– Kiểm tra định kỳ để phát hiện sớm sâu bệnh.\n– Phun phòng định kỳ bằng chế phẩm sinh học hoặc thuốc gốc đồng khi thời tiết ẩm.\n– Luân canh hoặc xen canh hợp lý, vệ sinh vườn sau mỗi vụ thu hoạch."
+}
+,{
+  "id": 98,
+  "ten_benh": "Cây ớt chuông khỏe mạnh",
+  "ten_khoa_hoc": "Capsicum annuum var. grossum",
+  "cay_chu": "Ớt chuông (Ớt ngọt)",
+  "nguyen_nhan": "Cây ớt chuông khỏe mạnh khi được trồng trong điều kiện khí hậu ấm áp, đủ ánh sáng, đất tơi xốp, thoát nước tốt và giàu hữu cơ. Việc tưới tiêu hợp lý, bón phân cân đối, đặc biệt là kali và canxi, cùng với kiểm soát sâu bệnh hiệu quả giúp cây phát triển mạnh, không bị nấm, vi khuẩn hay virus gây hại.",
+  "trieu_chung": "Lá xanh đậm, bóng, không có đốm vàng hay xoăn lại. Thân cây khỏe, mọc thẳng, không gãy hoặc bị nứt. Hoa ra đều, đậu quả tốt. Quả có màu tươi sáng (xanh, đỏ, vàng tùy giống), vỏ láng bóng, không bị thối, đen cuống hay biến dạng. Bộ rễ phát triển tốt, không bị thối hoặc teo.",
+  "dau_hieu_de_nhan_biet": "– Lá xanh, không xoăn, không có vết đốm nâu hay mốc.\n– Thân cứng, không bị nứt hoặc thâm đen ở gốc.\n– Quả mọng, vỏ bóng, không bị rỗ, nứt hoặc thối cuống.\n– Cây sinh trưởng cân đối, ra hoa đậu quả đều.\n– Không có dấu hiệu sâu đục quả, bọ trĩ hay rệp xuất hiện.",
+  "moi_truong_phat_sinh": "Cây ớt chuông phát triển khỏe trong điều kiện nhiệt độ 20–28°C, độ ẩm 70–80%, đất tơi xốp, giàu mùn, pH 6.0–6.8, thoát nước tốt. Cần đủ ánh sáng nhưng tránh nắng gắt. Môi trường khô thoáng giúp hạn chế bệnh héo rũ và thối quả.",
+  "phan_biet": "Khác với cây bị bệnh héo rũ do nấm Fusarium hoặc Pythium có thân gốc thâm đen, héo rũ và lá vàng rụng, cây ớt chuông khỏe mạnh có thân xanh, lá bóng, và không có dấu hiệu héo. So với cây bị thối quả do vi khuẩn, quả khỏe mạnh có vỏ bóng, không đốm ướt hay thối nhũn.",
+  "hau_qua": "Không có thiệt hại năng suất hay chất lượng. Cây khỏe cho nhiều quả, to, màu sắc đẹp, thịt dày và giòn ngọt. Năng suất ổn định, chất lượng thương phẩm cao, ít sâu bệnh, giảm chi phí thuốc bảo vệ thực vật và phân bón phục hồi.",
+  "phong_tru": "– Chọn giống ớt chuông khỏe, sạch bệnh, kháng tốt với nấm và vi khuẩn.\n– Làm đất kỹ, xử lý mầm bệnh trước khi trồng.\n– Tưới nước hợp lý, tránh úng hoặc khô hạn.\n– Bón phân cân đối NPK, bổ sung canxi và vi lượng.\n– Giữ ruộng thông thoáng, thường xuyên tỉa lá già, lá bệnh.\n– Theo dõi sâu bệnh thường xuyên, phun chế phẩm sinh học hoặc thuốc phòng phù hợp khi cần thiết."
+},
+  {
+  "id": 38,
+  "ten_benh": "Cây táo khỏe mạnh",
+  "ten_khoa_hoc": "Malus domestica Borkh.",
+  "cay_chu": "Táo",
+  "nguyen_nhan": "Cây táo phát triển khỏe mạnh khi được trồng trên đất thịt nhẹ, tơi xốp, giàu mùn, thoát nước tốt và có độ pH từ 6.0 đến 7.0. Khí hậu ôn hòa, đủ nắng, tưới tiêu hợp lý và chăm sóc đúng kỹ thuật giúp cây sinh trưởng tốt, ra hoa kết trái ổn định và ít sâu bệnh.",
+  "trieu_chung": "Lá táo xanh đậm, bóng, không có đốm nâu, vàng hay xoăn lại. Thân và cành khỏe, không nứt vỏ hay chảy nhựa. Hoa nở đều, đậu quả tốt. Quả táo tròn đều, vỏ nhẵn bóng, không thối, không bị đốm đen hay sâu chích. Rễ phát triển mạnh, không có dấu hiệu thối hoặc mục.",
+  "dau_hieu_de_nhan_biet": "– Lá xanh tươi, đều màu, không đốm nâu hoặc vàng úa.\n– Thân và cành không bị nứt vỏ, chảy nhựa hay có vết bệnh.\n– Quả phát triển đều, vỏ bóng, màu đặc trưng theo giống.\n– Không có dấu hiệu sâu đục quả, rệp sáp hay nấm mốc.\n– Cây ra hoa và kết trái ổn định, tán lá thông thoáng, cành khỏe.",
+  "moi_truong_phat_sinh": "Cây táo sinh trưởng tốt trong khí hậu mát mẻ, nhiệt độ trung bình 18–25°C, ánh sáng đầy đủ, không khí khô thoáng. Đất tơi xốp, giàu dinh dưỡng, thoát nước tốt. Môi trường ít ẩm giúp hạn chế bệnh ghẻ táo, thối quả và mốc sương.",
+  "phan_biet": "Khác với cây bị bệnh ghẻ táo (Venturia inaequalis) có vết đốm nâu đen sần sùi trên lá và quả, cây táo khỏe mạnh có lá xanh bóng, quả trơn nhẵn. Cũng khác với cây bị thối quả do nấm Botrytis, quả khỏe không có vết mốc xám hay vùng thối mềm.",
+  "hau_qua": "Không có thiệt hại năng suất hay chất lượng. Cây táo khỏe mạnh cho năng suất cao, quả ngọt giòn, màu sắc đẹp, phẩm chất tốt. Cây có khả năng chống chịu sâu bệnh và thời tiết bất lợi, giúp duy trì hiệu quả kinh tế lâu dài.",
+  "phong_tru": "– Sử dụng giống táo sạch bệnh, thích hợp vùng khí hậu.\n– Làm đất kỹ, bón lót phân hữu cơ hoai mục.\n– Tỉa cành, tạo tán thông thoáng, cắt bỏ cành bệnh hoặc già yếu.\n– Bón phân cân đối NPK, tăng kali và canxi để tăng sức đề kháng.\n– Theo dõi định kỳ, phát hiện sớm sâu bệnh để xử lý kịp thời.\n– Giữ vườn sạch sẽ, tiêu hủy tàn dư cây bệnh sau thu hoạch."
+}
+,
+  {
+  "id": 90,
+  "ten_benh": "Cây việt quất khỏe mạnh",
+  "ten_khoa_hoc": "Vaccinium corymbosum L.",
+  "cay_chu": "Việt quất (Blueberry)",
+  "nguyen_nhan": "Cây việt quất khỏe mạnh khi được trồng trong đất chua nhẹ (pH 4.5–5.5), tơi xốp, giàu hữu cơ, thoát nước tốt. Điều kiện khí hậu mát mẻ, ánh sáng đầy đủ, độ ẩm thích hợp và chăm sóc đúng kỹ thuật giúp cây sinh trưởng mạnh, ra hoa kết trái ổn định và ít bị sâu bệnh.",
+  "trieu_chung": "Lá xanh bóng, mọc đều, không bị đốm hoặc cháy mép. Thân và cành chắc khỏe, không bị nứt nẻ hay thâm đen. Hoa việt quất trắng hồng, nở đều, đậu quả tốt. Quả chín đều, vỏ căng bóng, có lớp phấn trắng tự nhiên, không nứt hoặc bị thối. Bộ rễ phát triển tốt, không bị mục hoặc úng nước.",
+  "dau_hieu_de_nhan_biet": "– Lá xanh tươi, không vàng, không đốm nâu hay cháy mép.\n– Thân và cành không bị khô, gãy hoặc có vết bệnh.\n– Hoa nở đều, quả tròn, mọng, vỏ bóng, không nứt hay thối.\n– Không có dấu hiệu rệp, nhện đỏ hay nấm mốc trên lá và quả.\n– Cây sinh trưởng đồng đều, cành phân bố cân đối, tán thoáng.",
+  "moi_truong_phat_sinh": "Việt quất phát triển khỏe trong khí hậu ôn đới hoặc cận ôn đới mát mẻ, nhiệt độ 16–25°C. Đất chua nhẹ, nhiều mùn, thoát nước tốt, độ ẩm 70–80%. Môi trường thông thoáng, nhiều ánh sáng, tránh úng nước để hạn chế bệnh thối rễ và nấm lá.",
+  "phan_biet": "Khác với cây bị bệnh thối rễ (Phytophthora cinnamomi) có lá vàng úa và rụng sớm, cây việt quất khỏe mạnh có lá xanh đều, không héo. So với cây bị bệnh mốc xám (Botrytis cinerea) có lớp mốc trên quả, cây khỏe mạnh có quả sáng màu và vỏ bóng.",
+  "hau_qua": "Không có thiệt hại năng suất hay chất lượng. Cây việt quất khỏe mạnh cho quả to, ngọt, mọng nước, màu xanh tím đặc trưng, năng suất ổn định. Chất lượng quả tốt, giàu dinh dưỡng, phù hợp cho tiêu thụ tươi hoặc chế biến. Cây có tuổi thọ và khả năng kháng bệnh cao.",
+  "phong_tru": "– Chọn giống việt quất phù hợp với vùng khí hậu, sạch bệnh.\n– Trồng trên đất chua nhẹ, thoát nước tốt, bổ sung mùn hoặc than bùn.\n– Tưới nước đều, tránh úng và khô hạn.\n– Tỉa cành định kỳ để tán thông thoáng.\n– Bón phân hữu cơ hoai mục kết hợp phân chua như amoni sunfat.\n– Theo dõi sâu bệnh, sử dụng chế phẩm sinh học phòng nấm và rệp khi cần."
+}
+,
+  {
+  "id": 26,
+  "ten_benh": "Bệnh cháy lá cây dâu tây",
+  "ten_khoa_hoc": "Diplocarpon earlianum (Ellis & Everh.) F.A. Wolf",
+  "cay_chu": "Dâu tây (Fragaria × ananassa)",
+  "nguyen_nhan": "Bệnh do nấm Diplocarpon earlianum gây ra, tấn công chủ yếu trên lá, cuống lá và đôi khi trên cuống quả. Nấm phát tán nhờ bào tử qua gió, nước mưa và tưới. Nguồn bệnh tồn tại trên lá khô, tàn dư cây trồng hoặc trong đất. Bệnh phát triển mạnh trong điều kiện ẩm độ cao (trên 85%), nhiệt độ 20–28°C, ruộng trồng dày, kém thông thoáng hoặc tưới phun mưa thường xuyên.",
+  "trieu_chung": "Ban đầu xuất hiện các đốm nhỏ màu tím sẫm hoặc đỏ nâu trên lá già, sau đó lan rộng, phần trung tâm vết bệnh chuyển xám nhạt hoặc trắng xám, viền ngoài đỏ nâu. Vết bệnh có thể hợp lại làm cháy từng mảng lớn trên lá. Khi bệnh nặng, lá khô giòn, cuống lá cũng có thể bị thâm nâu, cây còi cọc, giảm khả năng quang hợp và ra hoa, đậu quả kém.",
+  "dau_hieu_de_nhan_biet": "– Lá xuất hiện đốm tròn nhỏ màu đỏ nâu, viền rõ, tâm vết chuyển sáng dần.\n– Vết bệnh thường tập trung ở lá già hoặc lá gần mặt đất.\n– Khi bệnh nặng, lá cháy từng mảng lớn, khô giòn, cuống lá thâm nâu.\n– Bệnh phát triển mạnh trong mùa mưa hoặc nơi ẩm thấp, thông khí kém.",
+  "moi_truong_phat_sinh": "Nhiệt độ 20–28°C, ẩm độ cao trên 85%, sương mù hoặc mưa kéo dài là điều kiện lý tưởng để bệnh phát sinh. Bệnh thường xuất hiện trong ruộng trồng dày, kém thông thoáng, tưới phun mưa hoặc không vệ sinh lá già thường xuyên.",
+  "phan_biet": "Khác với bệnh đốm lá trắng do Mycosphaerella fragariae gây ra (vết bệnh có tâm trắng rõ và viền tím đậm), bệnh cháy lá do Diplocarpon earlianum có tâm xám nhạt và viền đỏ nâu, đốm không đều và dễ liên kết thành mảng cháy lớn.",
+  "hau_qua": "Bệnh làm giảm diện tích lá xanh, giảm quang hợp, ảnh hưởng đến sinh trưởng và ra hoa, giảm năng suất và chất lượng quả 20–40%. Nếu nặng, lá cháy khô hàng loạt khiến cây suy kiệt, quả nhỏ, chua và dễ bị nấm thứ cấp tấn công.",
+  "phong_tru": "– Chọn giống dâu tây khỏe, kháng bệnh tốt, trồng thưa để tăng thông thoáng.\n– Tưới nhỏ giọt thay vì tưới phun mưa, tránh làm ướt lá.\n– Thường xuyên tỉa bỏ lá già, lá bệnh, giữ ruộng sạch sẽ.\n– Luân canh cây trồng khác họ, không trồng dâu tây liên tục nhiều vụ.\n– Khi bệnh xuất hiện, phun thuốc gốc đồng hoặc các hoạt chất như Chlorothalonil, Mancozeb, Azoxystrobin hoặc Difenoconazole luân phiên.\n– Có thể sử dụng chế phẩm sinh học chứa Bacillus subtilis hoặc Trichoderma để kiểm soát nấm bệnh lâu dài."
+}
+,
+  {
+  "id": 25,
+  "ten_benh": "Bệnh đốm lá cây nho",
+  "ten_khoa_hoc": "Cercospora vitis (Lév.) Speg.",
+  "cay_chu": "Nho (Vitis vinifera L.)",
+  "nguyen_nhan": "Bệnh do nấm Cercospora vitis gây ra. Nấm phát triển và lây lan mạnh trong điều kiện nóng ẩm, mưa nhiều hoặc vườn rậm rạp, thông khí kém. Nguồn bệnh tồn tại trên lá rụng, cành tàn dư, và phát tán qua gió, nước mưa hoặc dụng cụ canh tác. Bệnh thường xuất hiện trong mùa mưa hoặc giai đoạn sinh trưởng mạnh của lá non.",
+  "trieu_chung": "Vết bệnh ban đầu là các đốm nhỏ tròn hoặc bầu dục, màu nâu nhạt đến nâu xám, xuất hiện chủ yếu ở mặt trên lá. Sau đó tâm vết bệnh dần chuyển sang màu xám tro hoặc trắng nhạt, viền nâu sẫm rõ rệt. Khi bệnh nặng, nhiều đốm liên kết lại làm cháy từng mảng lớn trên lá. Mặt dưới lá có thể thấy lớp mốc mịn màu xám nhạt (bào tử nấm). Lá bị bệnh nặng sẽ khô, giòn, dễ rụng sớm, ảnh hưởng đến khả năng quang hợp và năng suất quả.",
+  "dau_hieu_de_nhan_biet": "– Lá xuất hiện nhiều đốm tròn nhỏ màu nâu hoặc xám, tâm sáng hơn viền.\n– Vết bệnh lan nhanh, thường tập trung ở lá già hoặc tầng dưới.\n– Khi thời tiết ẩm, mặt dưới lá có lớp mốc xám mịn.\n– Lá rụng sớm, cây yếu, cành chậm chín, quả nhỏ và chua.\n– Bệnh dễ nhầm với bệnh phấn trắng nhưng không có lớp bột trắng dày.",
+  "moi_truong_phat_sinh": "Bệnh phát triển mạnh trong điều kiện nhiệt độ 25–30°C, ẩm độ trên 85%, mưa kéo dài, vườn rậm rạp và ít ánh sáng. Nấm tồn tại trong tàn dư lá bệnh, phát tán qua nước tưới, mưa hoặc gió. Thiếu dinh dưỡng, đặc biệt là kali, cũng làm cây dễ nhiễm bệnh hơn.",
+  "phan_biet": "Khác với bệnh phấn trắng (Uncinula necator) có lớp bột trắng phủ trên mặt lá, bệnh đốm lá Cercospora chỉ có đốm khô nâu xám, viền đậm và mốc nhẹ ở mặt dưới. Cũng khác với bệnh thối đen (Guignardia bidwellii) có vết đen lan rộng trên cả quả và lá.",
+  "hau_qua": "Bệnh làm giảm diện tích lá xanh, giảm quang hợp, dẫn đến cây suy yếu, quả nhỏ, chua và giảm năng suất 20–50%. Nếu bị nặng, có thể ảnh hưởng đến chất lượng rượu vang và tuổi thọ cây nho. Lá rụng sớm cũng khiến cành chín kém, dễ chết trong mùa đông.",
+  "phong_tru": "– Tỉa cành, tạo tán thông thoáng để giảm ẩm độ trong vườn.\n– Thu gom và tiêu hủy lá bệnh sau mỗi vụ.\n– Bón phân cân đối, tăng cường kali và canxi để tăng sức đề kháng.\n– Luân canh hoặc xen canh hợp lý để hạn chế nguồn bệnh lưu tồn.\n– Khi bệnh xuất hiện, phun các thuốc gốc đồng hoặc hoạt chất như Mancozeb, Chlorothalonil, Difenoconazole, Azoxystrobin luân phiên 2–3 lần, cách nhau 7–10 ngày.\n– Có thể kết hợp dùng chế phẩm sinh học chứa Bacillus subtilis hoặc Trichoderma spp. để kiểm soát nấm lâu dài."
+}
+,
+  {
+  "id": 24,
+  "ten_benh": "Bệnh đốm mục tiêu cây cà chua",
+  "ten_khoa_hoc": "Corynespora cassiicola (Berk. & Curt.) Wei",
+  "cay_chu": "Cà chua (Solanum lycopersicum L.)",
+  "nguyen_nhan": "Bệnh do nấm Corynespora cassiicola gây ra. Nấm phát triển mạnh trong điều kiện nóng ẩm (25–32°C), ẩm độ cao, mưa nhiều, đặc biệt ở giai đoạn cây ra hoa – kết trái. Bào tử nấm lan truyền qua gió, nước mưa, dụng cụ canh tác hoặc tàn dư cây trồng. Nguồn bệnh tồn tại lâu dài trong đất và tàn dư cây bệnh.",
+  "trieu_chung": "Trên lá, vết bệnh ban đầu là các đốm nhỏ màu nâu sẫm, tròn hoặc bầu dục. Sau đó vết bệnh mở rộng, tâm nhạt dần và xuất hiện nhiều vòng đồng tâm trông giống hình 'mục tiêu bắn'. Khi bệnh nặng, nhiều đốm liên kết lại làm cháy lá từng mảng, lá vàng úa và rụng sớm. Trên thân và cành, vết bệnh kéo dài, lõm xuống, màu nâu sẫm, làm thân dễ gãy. Trên quả xanh hoặc chín, vết bệnh tròn, lõm, màu nâu đen, lan rộng dần và có thể bị mốc đen khi ẩm độ cao.",
+  "dau_hieu_de_nhan_biet": "– Lá có đốm tròn nâu với các vòng đồng tâm rõ nét (giống hình mục tiêu).\n– Vết bệnh thường bắt đầu ở lá già phía dưới rồi lan lên trên.\n– Thời tiết ẩm, mặt dưới vết bệnh có lớp mốc đen mịn.\n– Quả bị đốm lõm màu nâu, có thể khô nhăn hoặc thối.\n– Khác với bệnh cháy lá sớm do Alternaria solani, vết bệnh của Corynespora có viền không quá sẫm và vòng đồng tâm mịn hơn.",
+  "moi_truong_phat_sinh": "Phát sinh mạnh trong điều kiện ẩm độ cao (trên 85%), nhiệt độ 25–32°C, mưa nhiều, vườn rậm rạp và kém thông thoáng. Nguồn bệnh tồn tại trong tàn dư cây trồng, hạt giống hoặc đất nhiễm nấm. Mưa gió, tưới phun hoặc chạm lá giữa các cây giúp bào tử lan rộng nhanh chóng.",
+  "phan_biet": "Bệnh đốm mục tiêu dễ nhầm với bệnh cháy lá sớm (Alternaria solani) nhưng có sự khác biệt: vết bệnh do Corynespora thường tròn đều, vòng đồng tâm rõ, viền mờ hơn, tâm xám và không lan nhanh như Alternaria. Ngoài ra, trên quả, bệnh đốm mục tiêu thường tạo vết lõm mịn và không có lớp mốc đen dày.",
+  "hau_qua": "Làm giảm diện tích lá xanh, ảnh hưởng quang hợp, khiến cây yếu, năng suất và chất lượng quả giảm nghiêm trọng. Trong điều kiện thuận lợi, có thể gây rụng lá hàng loạt, cháy khô cành, quả thối hàng loạt, giảm năng suất 30–70%. Nếu không phòng trị, cây dễ chết sớm khi đang ra quả.",
+  "phong_tru": "– Luân canh cây khác họ cà (họ Solanaceae) ít nhất 2–3 năm.\n– Thu gom, tiêu hủy tàn dư cây bệnh sau thu hoạch.\n– Trồng thưa, tỉa cành tạo thông thoáng để giảm ẩm độ.\n– Bón phân cân đối, tăng cường kali và canxi để tăng sức đề kháng.\n– Hạn chế tưới phun hoặc làm ướt lá vào chiều tối.\n– Sử dụng hạt giống sạch bệnh, xử lý hạt trước khi gieo.\n– Khi bệnh xuất hiện, phun luân phiên các thuốc trừ nấm có hoạt chất như Mancozeb, Chlorothalonil, Azoxystrobin, Difenoconazole, hoặc hỗn hợp Propineb + Cymoxanil theo hướng dẫn.\n– Có thể kết hợp sử dụng chế phẩm sinh học chứa Bacillus subtilis hoặc Trichoderma spp. để giảm nguồn bệnh trong đất."
+}
+,{
+  "id": 23,
+  "ten_benh": "Bệnh đốm vi khuẩn cây cà chua",
+  "ten_khoa_hoc": "Pseudomonas syringae pv. tomato (hoặc Xanthomonas vesicatoria trong một số vùng)",
+  "cay_chu": "Cà chua (Solanum lycopersicum L.)",
+  "nguyen_nhan": "Bệnh do vi khuẩn Pseudomonas syringae pv. tomato gây ra. Vi khuẩn tồn tại trong hạt giống, tàn dư cây bệnh, đất hoặc nước tưới. Vi khuẩn lây lan qua mưa, gió, dụng cụ canh tác và côn trùng. Thời tiết ẩm ướt, mưa kéo dài, nhiệt độ 18–28°C và lá ướt lâu là điều kiện lý tưởng để bệnh phát triển và lan nhanh.",
+  "trieu_chung": "Trên lá, vết bệnh ban đầu là các đốm nhỏ màu nâu đen, đường kính 1–3 mm, xung quanh có quầng vàng nhạt. Khi bệnh nặng, các đốm có thể liên kết lại, làm lá khô, cháy từng mảng và rụng sớm. Trên thân, cuống lá và cuống hoa có vết nâu đen nhỏ, hơi lõm. Trên quả xanh, xuất hiện các đốm nhỏ sậm màu, lõm nhẹ, bề mặt nhám sần và thường có viền tối. Trên quả chín, vết bệnh ít rõ hơn nhưng có thể để lại vết thâm sần sùi.",
+  "dau_hieu_de_nhan_biet": "– Đốm nhỏ, tròn, màu nâu đen, có quầng vàng mờ trên lá.\n– Vết bệnh thường tập trung ở lá non và phần trên của cây.\n– Quả xanh có đốm đen nhỏ, lõm, sần sùi, không lan sâu vào thịt quả.\n– Thời tiết ẩm mát, sương nhiều, bệnh lan nhanh khắp ruộng.\n– Dưới kính hiển vi hoặc khi bóp lá bệnh có thể thấy dịch khuẩn đục tiết ra.",
+  "moi_truong_phat_sinh": "Phát triển mạnh trong điều kiện ẩm độ cao (90–100%), nhiệt độ mát 18–28°C, mưa nhiều, sương mù hoặc tưới phun. Gieo trồng dày, kém thông thoáng, hoặc dùng hạt giống nhiễm khuẩn làm tăng nguy cơ bùng phát bệnh. Vi khuẩn dễ lây lan trong mùa mưa và các vụ trồng liên tục không luân canh.",
+  "phan_biet": "Bệnh đốm vi khuẩn dễ nhầm với bệnh đốm mục tiêu hoặc cháy lá sớm (do nấm). Tuy nhiên, đốm vi khuẩn thường nhỏ hơn, ranh giới rõ, có quầng vàng và không có vòng đồng tâm. Khi ẩm, mặt dưới vết bệnh có thể thấy dịch khuẩn bóng, còn bệnh nấm thì có lớp mốc nâu hoặc đen.",
+  "hau_qua": "Bệnh làm giảm diện tích lá quang hợp, lá rụng sớm, quả bị sần sùi, giảm chất lượng và giá trị thương phẩm. Trong điều kiện thuận lợi, bệnh có thể gây hại nặng, làm giảm năng suất 20–40%. Nếu nhiễm trên hạt giống, cây con dễ bị chết rạp hàng loạt.",
+  "phong_tru": "– Sử dụng hạt giống sạch bệnh, xử lý hạt bằng nước nóng 50°C trong 25 phút hoặc dung dịch NaOCl 1%.\n– Luân canh cây khác họ cà (Solanaceae) ít nhất 2–3 vụ.\n– Vệ sinh đồng ruộng, tiêu hủy tàn dư cây bệnh.\n– Trồng thưa, tạo thông thoáng, tránh tưới phun lên tán lá.\n– Không trồng cà chua liên tục nhiều vụ trên cùng đất.\n– Khi bệnh mới xuất hiện, phun luân phiên các thuốc có hoạt chất Copper hydroxide, Copper oxychloride, Streptomycin sulfate, Kasugamycin, hoặc hỗn hợp Copper + Mancozeb theo hướng dẫn.\n– Có thể kết hợp chế phẩm sinh học chứa Pseudomonas fluorescens hoặc Bacillus subtilis để ức chế vi khuẩn gây bệnh và tăng sức đề kháng cho cây."
+}
+,
+  {
+  "id": 53,
+  "ten_benh": "Bệnh đốm vi khuẩn cây đào",
+  "ten_khoa_hoc": "Xanthomonas arboricola pv. pruni (Smith, 1903)",
+  "cay_chu": "Đào (Prunus persica L.) và các loài thuộc chi Prunus như mận, mơ, anh đào",
+  "nguyen_nhan": "Bệnh do vi khuẩn Xanthomonas arboricola pv. pruni gây ra. Vi khuẩn tồn tại trong chồi, cành non, lá rụng và bề mặt quả bị nhiễm. Mưa, gió, nước tưới và dụng cụ canh tác là các yếu tố làm vi khuẩn lan truyền. Bệnh thường phát sinh mạnh trong điều kiện thời tiết ẩm ướt, mưa nhiều, nhiệt độ 20–30°C, đặc biệt vào đầu mùa mưa.",
+  "trieu_chung": "Trên lá, vết bệnh ban đầu là các đốm nhỏ màu xanh sẫm, sau chuyển nâu đen, có hình tròn hoặc góc cạnh do bị giới hạn bởi gân lá. Vết bệnh thường có viền vàng nhạt, khi nặng mô bệnh khô và rách rời tạo lỗ thủng (giống bị đạn bắn). Trên quả, xuất hiện các đốm nhỏ hơi lõm, màu nâu đậm hoặc đen, có quầng hơi đỏ, khi quả lớn vết bệnh nứt hoặc chai sần, làm quả biến dạng. Trên cành non, xuất hiện vết sậm màu, hơi lõm, đôi khi có rỉ nhựa và dễ nứt nẻ.",
+  "dau_hieu_de_nhan_biet": "– Lá có đốm nâu đen nhỏ, viền vàng, dễ rách thủng ở giữa.\n– Quả có đốm lõm màu đen, chai sần và cứng.\n– Cành non bị thâm, đôi khi rỉ nhựa vàng hoặc nâu.\n– Bệnh xuất hiện sớm vào mùa mưa, đặc biệt sau mưa nhiều và gió mạnh.\n– Không có lớp mốc nấm trên vết bệnh (phân biệt với bệnh nấm).",
+  "moi_truong_phat_sinh": "Bệnh phát sinh mạnh khi nhiệt độ từ 20–30°C, ẩm độ cao, mưa kéo dài, gió mạnh và ruộng vườn thoát nước kém. Vi khuẩn có thể tồn tại trong cành bệnh, chồi và tàn dư thực vật qua mùa đông. Nước mưa, sương đọng hoặc tưới phun làm tăng tốc độ lây lan của bệnh.",
+  "phan_biet": "Bệnh đốm vi khuẩn khác với bệnh rỗ lá (do nấm Wilsonomyces carpophilus). Vết bệnh vi khuẩn thường nhỏ, có quầng vàng và dễ thủng, trong khi vết bệnh do nấm thường tròn đều, khô giòn và rụng rời tạo lỗ có viền tím sậm. Ngoài ra, đốm vi khuẩn có thể kèm hiện tượng rỉ nhựa ở quả hoặc cành, còn bệnh nấm thì không.",
+  "hau_qua": "Bệnh gây rụng lá sớm, giảm khả năng quang hợp, làm quả bị sần sùi, nứt hoặc rụng sớm. Cây bị bệnh nặng sẽ suy yếu, giảm năng suất 20–60% và ảnh hưởng nghiêm trọng đến giá trị thương phẩm của quả. Nếu không phòng trị, bệnh có thể lây lan nhanh trong vườn qua nhiều vụ.",
+  "phong_tru": "– Cắt tỉa, tiêu hủy cành và lá bệnh sau thu hoạch.\n– Tỉa tán thông thoáng, tránh tưới phun làm ướt lá.\n– Luân canh, không trồng đào liên tục nhiều năm trên cùng đất.\n– Phun phòng bằng các thuốc chứa đồng như Copper hydroxide, Copper oxychloride, hoặc Bordeaux 1% trước và sau mưa lớn.\n– Khi bệnh xuất hiện, phun luân phiên các thuốc có hoạt chất Streptomycin sulfate, Kasugamycin hoặc hỗn hợp đồng – kháng sinh.\n– Bón phân cân đối, tránh thừa đạm, tăng cường kali và canxi để tăng sức đề kháng.\n– Sử dụng giống hoặc gốc ghép có khả năng kháng bệnh nếu có điều kiện."
+}
+,
+  {
+  "id": 49,
+  "ten_benh": "Bệnh đốm vi khuẩn cây ớt chuông",
+  "ten_khoa_hoc": "Xanthomonas campestris pv. vesicatoria (hiện nay gọi là Xanthomonas euvesicatoria)",
+  "cay_chu": "Ớt chuông (Capsicum annuum L.) và các giống ớt khác",
+  "nguyen_nhan": "Bệnh do vi khuẩn Xanthomonas euvesicatoria gây ra. Vi khuẩn tồn tại trong hạt giống, tàn dư cây bệnh và đất nhiễm. Lây lan qua mưa, gió, tưới phun, dụng cụ canh tác hoặc tiếp xúc giữa cây. Thời tiết ấm ẩm, nhiệt độ từ 25–32°C, độ ẩm cao, mưa nhiều là điều kiện thuận lợi cho bệnh phát triển mạnh.",
+  "trieu_chung": "Trên lá, vết bệnh ban đầu là các đốm nhỏ, thẫm màu, hơi ướt, sau chuyển nâu đen và có viền vàng nhạt. Các vết thường có hình góc cạnh do bị giới hạn bởi gân lá. Khi bệnh nặng, nhiều đốm liên kết lại làm lá cháy và rụng sớm. Trên thân và cuống lá, xuất hiện các vết đen nhỏ, kéo dài, hơi lõm. Trên quả non, vết bệnh nhỏ, hơi lõm, màu nâu đậm, có thể lan rộng, làm quả biến dạng, thối và rụng. Quả chín có thể có vết sần sùi hoặc nứt.",
+  "dau_hieu_de_nhan_biet": "– Lá có đốm nâu đen nhỏ, hình góc cạnh, viền vàng mờ.\n– Quả non có đốm lõm, sẫm màu, bề mặt sần.\n– Vết bệnh thường tập trung ở phần dưới tán, lan dần lên trên.\n– Không có lớp mốc nấm trên vết bệnh (phân biệt với bệnh nấm).\n– Thời tiết ẩm, sau mưa hoặc tưới phun là lúc bệnh bộc phát mạnh.",
+  "moi_truong_phat_sinh": "Bệnh phát sinh và lây lan mạnh trong điều kiện ẩm độ cao, nhiệt độ 25–32°C, mưa kéo dài hoặc sương đêm nhiều. Vi khuẩn dễ lây qua nước tưới, gió hoặc tiếp xúc giữa các lá. Hạt giống nhiễm bệnh là nguồn lây ban đầu quan trọng. Ruộng trồng dày, tưới phun và bón thừa đạm càng làm bệnh phát triển nhanh.",
+  "phan_biet": "Khác với bệnh thán thư (do nấm Colletotrichum spp.) là có vết lõm sâu, viền đậm và mốc hồng cam trên quả, bệnh đốm vi khuẩn chỉ tạo đốm nâu đen nhỏ, lõm nhẹ, viền vàng, không có bào tử nấm. Trên lá, vết bệnh vi khuẩn thường có hình góc cạnh rõ rệt và không có lớp mốc.",
+  "hau_qua": "Bệnh làm giảm diện tích lá quang hợp, rụng lá sớm, giảm chất lượng và năng suất quả. Quả bị đốm hoặc thối không thể tiêu thụ, gây thiệt hại 20–50%, nặng có thể mất trắng trong vụ mưa dài. Cây yếu dễ bị nấm thứ cấp xâm nhập.",
+  "phong_tru": "– Dùng hạt giống sạch bệnh, xử lý hạt bằng nước nóng 50°C trong 25 phút hoặc dung dịch NaOCl 1%.\n– Luân canh cây trồng khác họ với ớt (không cùng họ Cà Solanaceae) ít nhất 2–3 năm.\n– Vệ sinh đồng ruộng, tiêu hủy tàn dư cây bệnh sau thu hoạch.\n– Trồng thưa, tạo thông thoáng, tránh tưới phun ướt lá.\n– Bón phân cân đối, tăng kali và canxi, tránh thừa đạm.\n– Khi bệnh mới xuất hiện, phun luân phiên các thuốc có hoạt chất Copper hydroxide, Copper oxychloride, Streptomycin sulfate, Kasugamycin hoặc hỗn hợp đồng – kháng sinh theo hướng dẫn.\n– Có thể kết hợp chế phẩm sinh học chứa Pseudomonas fluorescens hoặc Bacillus subtilis để tăng sức đề kháng và hạn chế vi khuẩn phát triển."
+}
+,{
+  "id": 36,
+  "ten_benh": "Bệnh nấm lá cây cà chua (bệnh mốc lá)",
+  "ten_khoa_hoc": "Cladosporium fulvum Cooke (syn. Passalora fulva)",
+  "cay_chu": "Cà chua (Solanum lycopersicum L.)",
+  "nguyen_nhan": "Bệnh do nấm Cladosporium fulvum gây ra. Nấm phát triển mạnh trong điều kiện nóng ẩm, đặc biệt ở nơi trồng trong nhà kính hoặc khu vực ít thông thoáng. Bào tử nấm lan truyền qua gió, nước tưới, dụng cụ canh tác hoặc tàn dư cây bệnh. Nguồn bệnh tồn tại trong đất, lá bệnh khô hoặc trên vách nhà lưới, dụng cụ canh tác. Nhiệt độ thích hợp cho bệnh là 24–30°C và ẩm độ không khí trên 85%.",
+  "trieu_chung": "Bệnh xuất hiện chủ yếu trên lá, hiếm khi trên thân hoặc quả. Trên mặt trên của lá, vết bệnh ban đầu là những đốm vàng nhạt, hơi mất màu. Ở mặt dưới lá, đối diện vết bệnh, xuất hiện lớp mốc mịn màu xám ôliu đến nâu sẫm — đó là lớp bào tử của nấm. Khi bệnh nặng, vết bệnh lan rộng, lá vàng toàn bộ, khô và rụng sớm. Trên quả, đôi khi xuất hiện vết thâm nâu gần cuống hoặc nơi tiếp xúc với lá bệnh.",
+  "dau_hieu_de_nhan_biet": "– Mặt trên lá có đốm vàng nhạt, mặt dưới lá có lớp mốc nâu xám mịn.\n– Bệnh thường khởi phát ở lá già phía dưới, sau lan lên trên.\n– Lá bị khô cong, rụng hàng loạt trong điều kiện ẩm ướt kéo dài.\n– Thường gặp trong nhà lưới, nhà màng hoặc ruộng trồng dày, ít thoáng khí.\n– Không có dịch khuẩn hay mùi hôi (phân biệt với bệnh do vi khuẩn).",
+  "moi_truong_phat_sinh": "Bệnh phát triển mạnh trong điều kiện nhiệt độ 24–30°C, ẩm độ cao (≥85%), ánh sáng yếu, không khí kém lưu thông. Bào tử nấm dễ phát tán theo gió và bám vào bề mặt lá ẩm. Mưa, sương đêm hoặc tưới phun làm tăng tốc độ lây lan. Bệnh thường bộc phát trong các nhà trồng cà chua kín, đặc biệt ở giai đoạn cây đang ra hoa – đậu quả.",
+  "phan_biet": "Khác với bệnh đốm mục tiêu (Corynespora cassiicola) hay cháy lá sớm (Alternaria solani), bệnh nấm lá do Cladosporium fulvum có đặc trưng là lớp mốc xám ôliu ở mặt dưới lá, trong khi mặt trên chỉ vàng nhạt. Ngoài ra, bệnh không tạo vòng đồng tâm và ít gây thối quả hơn các bệnh nấm khác.",
+  "hau_qua": "Bệnh làm giảm diện tích lá quang hợp, khiến cây yếu, giảm năng suất 30–50%. Nếu không phòng trị, cây có thể rụng gần hết lá, quả nhỏ, chậm chín và dễ bị cháy nắng. Trong điều kiện trồng nhà lưới ẩm, bệnh có thể gây hại nghiêm trọng chỉ sau 5–7 ngày bộc phát.",
+  "phong_tru": "– Trồng với mật độ hợp lý, thông thoáng, cắt tỉa lá già sớm.\n– Luân canh cây trồng khác họ cà (Solanaceae) 2–3 vụ.\n– Tưới nhỏ giọt hoặc rãnh, tránh tưới phun ướt lá.\n– Giữ ẩm độ không khí dưới 85%, tăng cường thông gió trong nhà kính.\n– Thu gom, tiêu hủy tàn dư cây bệnh sau thu hoạch.\n– Phun phòng bằng các thuốc trừ nấm có hoạt chất như Chlorothalonil, Mancozeb, Copper oxychloride, Azoxystrobin, Difenoconazole, hoặc hỗn hợp Tebuconazole + Trifloxystrobin theo khuyến cáo.\n– Có thể kết hợp chế phẩm sinh học chứa Bacillus subtilis hoặc Trichoderma harzianum để kiểm soát nguồn nấm trong đất."
+}
+,
+  {
+  "id": "TOM-014",
+  "ten_benh": "f hại cây cà chua",
+  "ten_khoa_hoc": "Tetranychus urticae Koch",
+  "cay_chu": "Cà chua (Solanum lycopersicum)",
+  "nguyen_nhan": "Nhện đỏ hai đốm là loài côn trùng chích hút thuộc nhóm nhện nhỏ (Acari). Chúng sinh sản nhanh trong điều kiện thời tiết khô nóng. Nhện trưởng thành và ấu trùng chích hút dịch lá, làm giảm khả năng quang hợp của cây.",
+  "trieu_chung": "Trên mặt trên của lá xuất hiện các đốm nhỏ li ti màu vàng nhạt. Lá dần chuyển sang màu vàng đồng hoặc nâu, khô cháy và rụng sớm. Mặt dưới lá thường có mạng tơ mịn và có thể quan sát thấy nhện nhỏ màu đỏ nâu di chuyển.",
+  "dau_hieu_de_nhan_biet": "Quan sát thấy mạng tơ mỏng ở mặt dưới lá, cùng nhiều chấm đỏ nhỏ li ti di chuyển. Khi mật độ cao, toàn bộ lá chuyển vàng khô, cuốn lại, và cây còi cọc, giảm năng suất nghiêm trọng.",
+  "moi_truong_phat_sinh": "Nhện đỏ phát triển mạnh trong điều kiện thời tiết khô, nắng nóng, độ ẩm thấp (dưới 60%) và khi cây bị thiếu nước. Môi trường ít mưa, thông thoáng kém cũng tạo điều kiện cho nhện phát triển.",
+  "phan_biet": "Khác với bệnh nấm hay vi khuẩn, nhện đỏ không gây đốm ướt hay mốc mà tạo vết vàng khô và có tơ mịn. Nếu quan sát kỹ bằng kính lúp có thể thấy con nhện di chuyển.",
+  "hau_qua": "Làm giảm quang hợp, khiến cây sinh trưởng kém, lá rụng sớm, trái nhỏ, chín sớm và năng suất giảm mạnh. Nếu bị nặng, cây có thể chết khô toàn bộ tán lá.",
+  "phong_tru": {
+    "bien_phap_canh_tac": "Giữ ẩm cho đất và tăng độ ẩm không khí, tưới nước dạng phun sương để rửa trôi nhện. Thường xuyên kiểm tra mặt dưới lá để phát hiện sớm.",
+    "bien_phap_sinh_hoc": "Sử dụng thiên địch như nhện bắt mồi *Phytoseiulus persimilis* hoặc *Amblyseius californicus* để kiểm soát nhện đỏ.",
+    "bien_phap_hoa_hoc": "Khi mật độ cao, có thể dùng thuốc đặc trị nhện như Abamectin, Fenpyroximate hoặc Etoxazole, phun luân phiên để tránh kháng thuốc. Tuân thủ thời gian cách ly trước thu hoạch."
+  }
+}
+,
+  {
+  "id": "TOM-015",
+  "ten_benh": "Ốc sên (ốc sương) gây hại trên cây cà chua",
+  "ten_khoa_hoc": "Achatina fulica và Deroceras spp.",
+  "cay_chu": "Cà chua (Solanum lycopersicum)",
+  "nguyen_nhan": "Ốc sên và ốc sương là loài thân mềm, hoạt động mạnh vào ban đêm và sáng sớm khi có độ ẩm cao. Chúng cắn phá lá, thân non, hoa và quả non của cây cà chua, đặc biệt trong điều kiện ẩm ướt hoặc vườn có nhiều cỏ dại, tán lá rậm rạp.",
+  "trieu_chung": "Lá bị khuyết từng mảng lớn không đều, thân non và quả bị cắn để lại vết lõm ướt. Bề mặt vết cắn thường có lớp nhớt bạc của ốc sên. Khi bị nặng, cây còi cọc, lá rách, quả biến dạng hoặc thối do vi sinh vật xâm nhập qua vết thương.",
+  "dau_hieu_de_nhan_biet": "Quan sát thấy vết nhớt sáng bạc trên lá, thân hoặc đất quanh gốc. Vào sáng sớm hoặc chiều tối có thể thấy ốc sên bò quanh gốc cây hoặc bám trên thân, lá, đặc biệt sau mưa hoặc khi thời tiết ẩm.",
+  "moi_truong_phat_sinh": "Ốc sên phát triển mạnh trong môi trường ẩm, râm mát, nhiều cỏ dại hoặc lớp phủ hữu cơ dày. Mưa nhiều, đất ẩm ướt và không thoát nước tốt là điều kiện thuận lợi cho chúng sinh sản và phát triển.",
+  "phan_biet": "Khác với sâu ăn lá, vết cắn của ốc sên thường lớn, không đều và để lại dấu vết nhớt đặc trưng. Ngoài ra, hoạt động chủ yếu vào ban đêm giúp dễ phân biệt với các loại sâu khác.",
+  "hau_qua": "Làm giảm khả năng quang hợp do mất lá, ảnh hưởng đến quá trình ra hoa và đậu quả. Quả bị cắn sẽ dễ bị thối, giảm chất lượng và năng suất. Nếu không kiểm soát, mật độ ốc có thể gây hại nghiêm trọng trên diện rộng.",
+  "phong_tru": {
+    "bien_phap_canh_tac": "Giữ vườn thông thoáng, làm cỏ sạch, không để rác hữu cơ ẩm quanh gốc. Tưới nước buổi sáng để giảm ẩm vào ban đêm. Dọn sạch ốc và trứng bằng tay vào sáng sớm.",
+    "bien_phap_sinh_hoc": "Sử dụng bẫy ốc bằng vỏ bia, dưa hoặc khoai tây đặt quanh gốc để thu hút và tiêu diệt. Duy trì thiên địch tự nhiên như cóc, ếch, vịt.",
+    "bien_phap_hoa_hoc": "Khi mật độ cao, có thể sử dụng bả diệt ốc chứa hoạt chất Metaldehyde hoặc Iron phosphate (an toàn sinh học hơn), rải quanh gốc vào chiều mát. Không rải trực tiếp lên cây hoặc quả."
+  }
+}
+,
+  {
+  "id": "APP-010",
+  "ten_benh": "Bệnh gỉ sắt táo (rỉ táo tuyết trùng)",
+  "ten_khoa_hoc": "Gymnosporangium juniperi-virginianae",
+  "cay_chu": "Táo (Malus domestica)",
+  "nguyen_nhan": "Bệnh do nấm Gymnosporangium juniperi-virginianae gây ra, thường được gọi là bệnh gỉ sắt tuyết trùng. Nấm cần hai ký chủ để hoàn thành vòng đời: cây táo và cây tuyết tùng (Juniperus spp.). Bào tử từ cây tuyết tùng phát tán theo gió, lây nhiễm sang cây táo vào mùa xuân trong điều kiện ẩm ướt.",
+  "trieu_chung": "Trên lá táo xuất hiện các đốm màu cam hoặc vàng sáng, sau đó chuyển dần sang nâu đỏ. Mặt dưới lá, tại vị trí đốm bệnh hình thành các u nhỏ hoặc cột tua màu da cam giống sợi gel. Trên quả hoặc cuống quả, bệnh gây ra các vết sần, lõm và làm biến dạng quả. Khi bị nặng, lá vàng và rụng sớm.",
+  "dau_hieu_de_nhan_biet": "Đốm màu cam đỏ đặc trưng trên lá, xuất hiện sớm vào mùa xuân sau khi hoa nở. Ở mặt dưới lá có thể thấy các tua nhỏ màu da cam tiết dịch nhầy vào sáng sớm hoặc sau mưa. Nếu gần khu vực có cây tuyết tùng, nguy cơ nhiễm bệnh rất cao.",
+  "moi_truong_phat_sinh": "Bệnh phát triển mạnh trong điều kiện ẩm ướt, mưa nhiều, sương mù dày và khi có cây tuyết tùng (Juniperus spp.) trồng gần. Bào tử nấm dễ phát tán xa hàng trăm mét theo gió và lây nhiễm cho cây táo non.",
+  "phan_biet": "Khác với bệnh đốm lá thông thường, vết bệnh gỉ sắt táo có màu cam đỏ nổi bật và xuất hiện tua nấm ở mặt dưới lá. Bệnh có tính chu kỳ giữa hai loài cây: táo và tuyết tùng, điều mà các bệnh lá khác không có.",
+  "hau_qua": "Làm giảm khả năng quang hợp, gây rụng lá sớm, quả nhỏ, méo, giảm năng suất và chất lượng. Nếu không kiểm soát, bệnh có thể lây lan nhanh trong vườn táo và ảnh hưởng đến các vụ sau.",
+  "phong_tru": {
+    "bien_phap_canh_tac": "Không trồng cây táo gần cây tuyết tùng hoặc các loài Juniperus khác trong phạm vi 300–500 m. Cắt bỏ và tiêu hủy các cành, quả bị bệnh. Dọn sạch lá rụng dưới gốc.",
+    "bien_phap_sinh_hoc": "Tăng cường sử dụng chế phẩm sinh học chứa Bacillus subtilis hoặc Trichoderma spp. để hạn chế sự phát triển của nấm gây bệnh.",
+    "bien_phap_hoa_hoc": "Phun phòng vào đầu mùa xuân bằng các thuốc chứa hoạt chất Mancozeb, Propiconazole, Tebuconazole hoặc Myclobutanil. Lặp lại 2–3 lần cách nhau 10–14 ngày khi thời tiết ẩm và có sương. Ngừng phun trước thu hoạch ít nhất 14 ngày."
+  }
+}
+,
+  {
+  "id": "GRP-011",
+  "ten_benh": "Bệnh sởi đen (bồ hóng đen) trên cây nho",
+  "ten_khoa_hoc": "Capnodium spp.",
+  "cay_chu": "Nho (Vitis vinifera)",
+  "nguyen_nhan": "Bệnh do nấm Capnodium spp. phát triển trên dịch mật ngọt (honeydew) do côn trùng chích hút như rệp sáp, rệp muội, bọ phấn hoặc rầy mềm tiết ra. Nấm không xâm nhập vào mô cây mà chỉ phát triển bên ngoài, tạo lớp mốc đen như muội than trên lá, cành và quả.",
+  "trieu_chung": "c Quả bị bồ hóng bám lên bề mặt mất độ bóng, giảm giá trị thương phẩm, dễ bị nứt hoặc thối do vi sinh vật thứ cấp.",
+  "dau_hieu_de_nhan_biet": "Lớp nấm đen bám trên bề mặt lá và quả, dễ lau trôi bằng tay. Khi kiểm tra kỹ có thể thấy sự xuất hiện của rệp hoặc bọ phấn ở mặt dưới lá hoặc quanh chùm quả — nguồn gây ra dịch mật cho nấm phát triển.",
+  "moi_truong_phat_sinh": "Bệnh phát triển mạnh trong điều kiện ẩm độ cao, vườn rậm rạp, thông thoáng kém và có nhiều côn trùng chích hút. Đặc biệt phổ biến ở các vườn nho không được vệ sinh thường xuyên hoặc bón phân đạm quá mức làm cây ra lá non liên tục.",
+  "phan_biet": "Khác với bệnh mốc sương hay thán thư, lớp nấm bồ hóng đen của bệnh sởi đen không làm thối mô cây mà chỉ phủ bên ngoài. Có thể dễ dàng lau sạch bằng tay hoặc khăn ẩm.",
+  "hau_qua": "Làm giảm khả năng quang hợp, ảnh hưởng đến sinh trưởng và năng suất. Quả bị đen, giảm chất lượng và giá trị thương mại. Bệnh thường đi kèm với sự phát sinh mạnh của rệp và bọ phấn.",
+  "phong_tru": {
+    "bien_phap_canh_tac": "Tỉa cành tạo tán thông thoáng, giảm ẩm độ. Vệ sinh vườn, loại bỏ cỏ dại và lá rụng. Không bón thừa đạm, kết hợp tưới tiêu hợp lý.",
+    "kiem_soat_con_trung": "Kiểm soát rệp sáp, rệp muội và bọ phấn bằng cách phun các chế phẩm sinh học chứa nấm xanh (Metarhizium anisopliae) hoặc nấm trắng (Beauveria bassiana). Có thể dùng dầu khoáng hoặc xà phòng sinh học để rửa trôi dịch mật.",
+    "bien_phap_hoa_hoc": "Nếu mật độ côn trùng cao, có thể sử dụng các thuốc chứa hoạt chất Imidacloprid, Thiamethoxam hoặc Abamectin. Sau khi kiểm soát được côn trùng, phun rửa lá bằng dung dịch đồng sunfat loãng hoặc dung dịch baking soda 0,5% để loại bỏ lớp nấm đen."
+  }
+}
+,
+  {
+  "id": "APP-011",
+  "ten_benh": "Bệnh thối đen trên cây táo",
+  "ten_khoa_hoc": "Botryosphaeria obtusa (Diplodia seriata)",
+  "cay_chu": "Táo (Malus domestica)",
+  "nguyen_nhan": "Bệnh thối đen do nấm Botryosphaeria obtusa gây ra. Nấm tồn tại trong vỏ cây, cành khô và quả rụng, phát tán qua gió, mưa hoặc dụng cụ cắt tỉa. Khi gặp điều kiện ẩm ướt và nhiệt độ từ 24–28°C, nấm xâm nhập qua vết thương trên vỏ, lá hoặc cuống quả và phát triển mạnh.",
+  "trieu_chung": "Trên lá, xuất hiện các đốm tròn nhỏ màu nâu đậm, lan rộng dần, tâm đốm chuyển xám nhạt, viền nâu sẫm. Trên cành non, vỏ bị thâm đen, nứt và khô, có thể tạo vết loét kéo dài. Quả bị bệnh xuất hiện vết thối màu nâu sẫm, lan rộng từ cuống hoặc vết trầy, bề mặt nhăn, khô, cứng dần và chuyển sang màu đen. Khi khô, quả bệnh vẫn bám chặt trên cây và được gọi là “mummy fruit” (quả xác khô).",
+  "dau_hieu_de_nhan_biet": "Quả có vết thối khô, cứng, màu nâu đen và thường khô quắt lại trên cây. Lá và cành có đốm đen hình tròn đồng tâm, dễ nhầm với cháy lá do nắng nhưng phân biệt bởi sự lan rộng chậm và mép vết rõ nét. Cành bị bệnh có thể thấy các chấm đen nhỏ (thể nấm) trên bề mặt vỏ.",
+  "moi_truong_phat_sinh": "Bệnh phát triển mạnh trong điều kiện ẩm cao, mưa nhiều, nhiệt độ ấm (25–30°C), đặc biệt ở vườn có nhiều cành khô hoặc quả rụng không được dọn sạch. Cây bị tổn thương cơ giới hoặc cháy nắng dễ nhiễm bệnh hơn.",
+  "phan_biet": "Khác với bệnh thối nâu (Monilinia fructigena), thối đen tạo quả khô cứng và không có lớp mốc trắng. Ngoài ra, nấm Botryosphaeria còn gây hại cả cành và lá, trong khi thối nâu chủ yếu hại quả.",
+  "hau_qua": "Làm giảm năng suất và chất lượng quả, khiến quả rụng sớm hoặc không thể tiêu thụ. Nấm tồn tại lâu năm trên cành và vỏ cây, gây suy yếu cây, khô cành, giảm khả năng ra hoa và đậu quả.",
+  "phong_tru": {
+    "bien_phap_canh_tac": "Cắt bỏ và tiêu hủy các cành, quả bị bệnh. Dọn sạch quả rụng, lá khô, vệ sinh vườn kỹ lưỡng. Cắt tỉa tạo tán thông thoáng, tránh để vườn ẩm kéo dài. Khử trùng dụng cụ sau khi cắt tỉa.",
+    "bien_phap_sinh_hoc": "Phun chế phẩm sinh học chứa Bacillus subtilis hoặc Trichoderma spp. để cạnh tranh và hạn chế nấm bệnh phát triển. Bón thêm kali và canxi để tăng sức đề kháng của cây.",
+    "bien_phap_hoa_hoc": "Phun phòng bằng các thuốc có hoạt chất Captan, Mancozeb, Thiophanate-methyl hoặc Pyraclostrobin khi thời tiết ẩm hoặc sau mưa. Phun 2–3 lần mỗi vụ, cách nhau 10–14 ngày, tập trung vào giai đoạn quả đang phát triển và trước thu hoạch."
+  }
+}
+,{
+  "id": "CIT-012",
+  "ten_benh": "Bệnh vàng lá gân xanh trên cây cam",
+  "ten_khoa_hoc": "Candidatus Liberibacter asiaticus (và đôi khi Candidatus L. africanus, L. americanus)",
+  "cay_chu": "Cam, quýt, chanh, bưởi và các cây họ cam (Rutaceae)",
+  "nguyen_nhan": "Bệnh do vi khuẩn Candidatus Liberibacter asiaticus gây ra, được truyền bởi rầy chổng cánh châu Á (Diaphorina citri). Vi khuẩn xâm nhập vào mạch dẫn (phloem) của cây, làm cản trở quá trình vận chuyển dinh dưỡng, dẫn đến hiện tượng vàng lá và suy kiệt cây. Bệnh không thể chữa khỏi hoàn toàn và thường tồn tại suốt đời cây.",
+  "trieu_chung": "Lá bị vàng không đều, gân lá vẫn xanh — tạo hiện tượng ‘vàng lá gân xanh’ đặc trưng. Lá dày, giòn, nhỏ hơn bình thường và có thể cong lên. Quả nhỏ, méo, vỏ sần sùi, khi bổ ra thấy hạt lép, lệch tâm, ruột không đều màu. Cành khô dần từ ngọn xuống. Cây sinh trưởng kém, ra hoa trái vụ, đậu quả ít và dễ rụng.",
+  "dau_hieu_de_nhan_biet": "Dễ nhận thấy các lá vàng loang lổ không đối xứng giữa hai nửa phiến lá. Gân lá vẫn xanh trong khi mô lá xung quanh bị vàng. Trên cây bệnh nặng, cành có hiện tượng khô đầu cành và lá rụng từng mảng. Quả có vị đắng nhẹ, vỏ dày và chín không đều.",
+  "moi_truong_phat_sinh": "Bệnh lây lan mạnh trong điều kiện ấm nóng (25–32°C), ẩm độ cao và khi có nhiều rầy chổng cánh phát triển. Rầy dễ phát tán xa nhờ gió và hoạt động trên các cây ký chủ họ cam quýt quanh vùng. Bệnh tồn tại lâu dài trong cây và nguồn lây từ cây giống nhiễm bệnh.",
+  "phan_biet": "Khác với bệnh vàng lá do thiếu kẽm hoặc magiê, bệnh vàng lá gân xanh có sự vàng không đối xứng giữa hai nửa lá, gân vẫn xanh và thường đi kèm hiện tượng quả nhỏ, méo và lệch tâm. Ngoài ra, bệnh lây lan theo côn trùng truyền bệnh chứ không phải do đất hoặc dinh dưỡng.",
+  "hau_qua": "Cây suy kiệt dần, năng suất giảm nghiêm trọng (30–80%), quả nhỏ, chất lượng kém, thời gian sống ngắn. Nếu không kiểm soát, bệnh có thể lan nhanh ra toàn vườn và gây mất trắng.",
+  "phong_tru": {
+    "bien_phap_canh_tac": "Chỉ sử dụng cây giống sạch bệnh, có chứng nhận. Thường xuyên cắt bỏ, tiêu hủy cành và cây bị nhiễm nặng để ngăn lây lan. Giữ vườn thông thoáng, hạn chế cây ký chủ phụ của rầy.",
+    "kiem_soat_con_trung": "Theo dõi và phòng trừ rầy chổng cánh bằng bẫy vàng dính, phun dầu khoáng hoặc thuốc trừ rầy có hoạt chất Imidacloprid, Thiamethoxam, Abamectin, hoặc Dinotefuran. Ưu tiên phun khi cây ra đọt non – thời điểm rầy hoạt động mạnh nhất.",
+    "bien_phap_sinh_hoc": "Tăng cường sử dụng thiên địch của rầy như ong ký sinh Tamarixia radiata. Phun chế phẩm sinh học chứa Bacillus subtilis để hỗ trợ sức đề kháng của cây.",
+    "quan_ly_dinh_duong": "Bón phân cân đối, đặc biệt bổ sung lân, kali, kẽm và vi lượng. Tránh bón thừa đạm để hạn chế ra đọt non – nguồn thu hút rầy.",
+    "chu_y": "Hiện chưa có thuốc đặc trị bệnh vàng lá gân xanh. Biện pháp hiệu quả nhất là quản lý tổng hợp: giống sạch bệnh + diệt rầy + nhổ bỏ cây nhiễm + chăm sóc tốt để cây khỏe và kéo dài tuổi thọ."
+  }
+},
+{
+  "id": "TOM-016",
+  "ten_benh": "Bệnh khảm do virus trên cây cà chua",
+  "ten_khoa_hoc": "Tomato mosaic virus (ToMV) và Tomato yellow leaf curl virus (TYLCV)",
+  "cay_chu": "Cà chua (Solanum lycopersicum)",
+  "nguyen_nhan": "Bệnh do virus gây ra, phổ biến nhất là Tomato mosaic virus (ToMV) và Tomato yellow leaf curl virus (TYLCV). Virus lây truyền qua hạt giống nhiễm bệnh, qua dụng cụ canh tác, qua tiếp xúc cơ học và côn trùng môi giới như bọ phấn (Bemisia tabaci) và rầy mềm. Virus có thể tồn tại lâu trong tàn dư cây trồng, đất và dụng cụ nông nghiệp.",
+  "trieu_chung": "Lá non xuất hiện vân khảm xanh vàng không đều, lá xoăn lại, nhỏ, biến dạng. Cây sinh trưởng chậm, thấp lùn, ít ra hoa, đậu quả kém. Quả nhỏ, méo, chín không đều, đôi khi có đốm vàng hoặc xanh quanh cuống. Khi bị nặng, toàn bộ cây còi cọc, năng suất giảm mạnh.",
+  "dau_hieu_de_nhan_biet": "Lá non có các mảng màu xanh đậm – xanh nhạt xen kẽ (hiện tượng khảm). Mép lá cong, xoăn hoặc quăn tròn lại. Nếu bị TYLCV, lá thường xoăn ngược lên, gân lá dày nổi rõ, toàn cây lùn và vàng. Quả non ít hình thành hoặc méo mó. Bọ phấn thường xuất hiện ở mặt dưới lá.",
+  "moi_truong_phat_sinh": "Bệnh phát triển mạnh trong điều kiện thời tiết ấm (25–32°C), khô và có nhiều bọ phấn. Các vụ trồng liên tiếp không luân canh, sử dụng hạt giống hoặc cây giống nhiễm bệnh, và chăm sóc kém vệ sinh đều làm tăng tỷ lệ nhiễm virus.",
+  "phan_biet": "Khác với bệnh vàng lá sinh lý hay thiếu dinh dưỡng, bệnh khảm có vết loang lổ không đồng đều giữa các mô lá và thường kèm theo biến dạng hình thái (xoăn, quăn). Virus không gây vết thối hay mốc, nhưng làm biến đổi màu sắc mô lá đặc trưng.",
+  "hau_qua": "Làm giảm khả năng quang hợp, ức chế sinh trưởng, giảm tỷ lệ ra hoa và đậu quả. Tùy mức độ nhiễm, năng suất có thể giảm 30–90%. Virus lây lan nhanh và tồn tại lâu dài trong vườn, gây hại nặng ở các vùng trồng cà chua quanh năm.",
+  "phong_tru": {
+    "bien_phap_canh_tac": "Sử dụng hạt giống và cây giống sạch bệnh. Luân canh với cây trồng không phải họ cà (như đậu, ngô) ít nhất 2–3 vụ. Vệ sinh đồng ruộng, nhổ bỏ và tiêu hủy cây bị bệnh sớm.",
+    "kiem_soat_con_trung": "Phòng trừ bọ phấn và rầy mềm bằng bẫy dính màu vàng, dầu khoáng hoặc các thuốc trừ côn trùng chứa hoạt chất Abamectin, Imidacloprid, Thiamethoxam hoặc Dinotefuran. Phun định kỳ khi cây ra lá non.",
+    "bien_phap_sinh_hoc": "Sử dụng các chế phẩm sinh học tăng đề kháng như chiết xuất tỏi, neem (Azadirachtin) hoặc vi khuẩn có lợi Bacillus subtilis. Có thể kết hợp phủ lưới chống côn trùng để ngăn virus lây lan.",
+    "quan_ly_dinh_duong": "Bón phân cân đối, bổ sung canxi, kali và vi lượng để cây khỏe mạnh, giảm tác động của virus. Tránh bón thừa đạm gây lá non mềm, dễ bị bọ phấn tấn công.",
+    "chu_y": "Không có thuốc đặc trị virus. Biện pháp hiệu quả nhất là quản lý tổng hợp: giống sạch bệnh + kiểm soát côn trùng + tiêu hủy cây bệnh + canh tác hợp lý."
+  }
+}
+,{
+  "id": "TOM-017",
+  "ten_benh": "Bệnh virus vàng xoăn lá trên cây cà chua",
+  "ten_khoa_hoc": "Tomato Yellow Leaf Curl Virus (TYLCV)",
+  "cay_chu": "Cà chua (Solanum lycopersicum)",
+  "nguyen_nhan": "Bệnh do virus Tomato Yellow Leaf Curl Virus (TYLCV) gây ra, thuộc nhóm Begomovirus. Virus được truyền chủ yếu bởi bọ phấn trắng (Bemisia tabaci). Ngoài ra, bệnh có thể lây lan qua cây giống nhiễm bệnh, dụng cụ canh tác hoặc cỏ dại ký chủ mang virus.",
+  "trieu_chung": "Lá non chuyển vàng, xoăn cong ngược lên trên, gân lá dày nổi rõ và biến màu vàng. Cây bị còi cọc, sinh trưởng chậm, ra hoa ít, đậu quả kém. Quả nhỏ, méo, chín không đều và dễ rụng non. Cây bị nặng thường ngừng phát triển hoàn toàn.",
+  "dau_hieu_de_nhan_biet": "Các lá phía trên ngọn chuyển vàng, gân lá vẫn xanh nhạt nhưng dày và nổi lên rõ. Toàn cây lùn, thân giòn và ít cành. Trên mặt dưới lá thường có nhiều bọ phấn trắng. Khác với bệnh khảm thông thường, vàng xoăn lá gây biến dạng mạnh và lá cuốn lên đặc trưng.",
+  "moi_truong_phat_sinh": "Phát triển mạnh trong điều kiện nhiệt độ 25–32°C, trời khô nóng và nhiều bọ phấn. Mùa khô hoặc vụ trồng liên tục cà chua quanh năm là điều kiện thuận lợi cho bệnh lây lan. Vườn trồng dày, chăm sóc kém vệ sinh, không luân canh làm tăng tỷ lệ nhiễm bệnh.",
+  "phan_biet": "Khác với bệnh khảm (ToMV) có các mảng xanh vàng xen kẽ, bệnh TYLCV chủ yếu gây vàng toàn lá, gân dày, lá cuốn lên và cây lùn. Bệnh không gây đốm hoặc thối, mà làm biến dạng hình thái và rối loạn sinh trưởng rõ rệt.",
+  "hau_qua": "Giảm mạnh khả năng quang hợp, hạn chế phát triển thân lá và ra hoa. Năng suất có thể giảm từ 30–100% nếu bị nặng. Virus lây lan rất nhanh qua bọ phấn, đặc biệt trong vườn có nhiều cây ký chủ trung gian như ớt, cà tím, thuốc lá, cỏ dại họ cà.",
+  "phong_tru": {
+    "bien_phap_canh_tac": "Sử dụng giống kháng hoặc chống chịu TYLCV. Trồng cây giống sạch bệnh, luân canh với cây không cùng họ cà (đậu, ngô, bắp cải). Nhổ bỏ sớm cây nhiễm bệnh nặng và tiêu hủy toàn bộ tàn dư cây bệnh sau thu hoạch.",
+    "kiem_soat_con_trung": "Kiểm soát bọ phấn trắng bằng bẫy dính màu vàng, sử dụng lưới chắn côn trùng, và phun thuốc trừ côn trùng có hoạt chất như Imidacloprid, Thiamethoxam, Abamectin hoặc Pyriproxyfen theo hướng dẫn. Tập trung phòng trừ sớm khi cây còn nhỏ.",
+    "bien_phap_sinh_hoc": "Dùng chế phẩm sinh học chứa nấm xanh Metarhizium anisopliae hoặc vi khuẩn Bacillus thuringiensis để kiểm soát bọ phấn. Kết hợp phun dịch chiết neem (Azadirachtin) để xua đuổi và giảm mật độ côn trùng truyền bệnh.",
+    "quan_ly_dinh_duong": "Bón phân cân đối, tránh thừa đạm, tăng cường kali, canxi và vi lượng để cây cứng cáp và tăng sức đề kháng. Duy trì ẩm độ đất ổn định, tránh khô hạn kéo dài.",
+    "chu_y": "Không có thuốc đặc trị virus. Phòng bệnh tổng hợp (IPM) là biện pháp duy nhất hiệu quả: giống kháng + cây sạch bệnh + quản lý bọ phấn + luân canh + vệ sinh đồng ruộng."
+  }
+}
+]}
