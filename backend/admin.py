@@ -17,7 +17,9 @@ class RAGManagerView(BaseView):
             "rag_manager.html",
             {"request": request}
         )
-
+class Thaidq(BaseView):
+    name = "ThaiDQ"
+    name_prular = "ThaiDQ"
 
 class UserAdmin(ModelView, model=User):
     """Quản lý Người dùng"""
